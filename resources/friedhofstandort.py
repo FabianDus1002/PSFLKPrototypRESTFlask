@@ -6,6 +6,7 @@ die requestParser von flask_restful verwendet
 import flask
 from flask_restful import Resource, reqparse, abort
 import pandas as pd
+from authentication_middleware import authfunc
 
 #argument parser to collect data from post and put request
 post_put_args = reqparse.RequestParser()
@@ -34,6 +35,7 @@ class FriedhofStandort(Resource):
     def __init__(self):
         #read csv file
         self.data = pd.read_csv('data/FriedhofStandorte.csv',sep=',')
+    
     def get(self, name):
         '''Mit get wird die JSON Repräsentation der spezifizierte Ressource aus der csv angefragt'''
         result = self.data.loc[(self.data['NAME'] == name)]
@@ -45,6 +47,7 @@ class FriedhofStandort(Resource):
         response.headers['content-type'] = 'application/json'
         return response
 
+    @authfunc
     def post(self, name):
         '''Mit post wird eine neue Ressource in der csv angelegt'''
         result = self.data.loc[(self.data['NAME'] == name)]
@@ -60,6 +63,7 @@ class FriedhofStandort(Resource):
         abort(405, message="Es gibt schon einen Eintrag unter der spezifizierten Ressource")
         return None
 
+    @authfunc
     def put(self, name):
         '''Mit put wird eine spezifizierte Ressource in der csv aktualisiert'''
         result = self.data.loc[(self.data['NAME'] == name)]
@@ -72,6 +76,7 @@ class FriedhofStandort(Resource):
              args['HOCHWERT'], args['HOMEPAGE']]
             self.data.to_csv('data/FriedhofStandorte.csv', index=False)
 
+    @authfunc
     def patch(self, name):
         '''Mit patch wird eine spezifizierte Ressource in der csv partiell aktualisiert'''
         result = self.data.loc[(self.data['NAME'] == name)]
@@ -90,6 +95,7 @@ class FriedhofStandort(Resource):
                 self.data.loc[(self.data['NAME'] == name), ['HOMEPAGE']] = args['HOMEPAGE']
             self.data.to_csv('data/FriedhofStandorte.csv', index=False)
 
+    @authfunc
     def delete(self, name):
         '''delete löscht die spezifizierte Ressource aus der csv'''
         result = self.data.loc[(self.data['NAME'] == name)]
