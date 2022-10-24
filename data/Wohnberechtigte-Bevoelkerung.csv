@@ -1,0 +1,2520 @@
+ZEIT,RAUM,MERKMAL,WERT
+31.12.2006,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,93
+31.12.2006,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,17
+31.12.2006,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1166
+31.12.2006,12 Überwasser,Ausländer,119
+31.12.2006,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,81
+31.12.2006,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,14
+31.12.2006,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1048
+31.12.2006,13 Dom,Ausländer,145
+31.12.2006,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,136
+31.12.2006,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,19
+31.12.2006,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1752
+31.12.2006,14 Buddenturm,Ausländer,167
+31.12.2006,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,143
+31.12.2006,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,30
+31.12.2006,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,1846
+31.12.2006,15 Martini,Ausländer,108
+31.12.2006,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,77
+31.12.2006,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,13
+31.12.2006,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1078
+31.12.2006,21 Pluggendorf,Ausländer,302
+31.12.2006,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,267
+31.12.2006,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,24
+31.12.2006,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3228
+31.12.2006,22 Josef,Ausländer,597
+31.12.2006,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,435
+31.12.2006,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,86
+31.12.2006,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,6709
+31.12.2006,23 Bahnhof,Ausländer,106
+31.12.2006,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,81
+31.12.2006,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,9
+31.12.2006,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,812
+31.12.2006,24 Hansaplatz,Ausländer,434
+31.12.2006,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,379
+31.12.2006,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,98
+31.12.2006,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5367
+31.12.2006,25 Mauritz-West,Ausländer,304
+31.12.2006,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,290
+31.12.2006,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,54
+31.12.2006,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,4980
+31.12.2006,26 Schlachthof,Ausländer,298
+31.12.2006,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,434
+31.12.2006,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,173
+31.12.2006,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,3830
+31.12.2006,27 Kreuz,Ausländer,519
+31.12.2006,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,579
+31.12.2006,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,133
+31.12.2006,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,10361
+31.12.2006,28 Neutor,Ausländer,415
+31.12.2006,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,261
+31.12.2006,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,66
+31.12.2006,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,2981
+31.12.2006,29 Schloss,Ausländer,181
+31.12.2006,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,101
+31.12.2006,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,24
+31.12.2006,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1562
+31.12.2006,31 Aaseestadt,Ausländer,567
+31.12.2006,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,603
+31.12.2006,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,105
+31.12.2006,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4071
+31.12.2006,32 Geist,Ausländer,541
+31.12.2006,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,687
+31.12.2006,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,182
+31.12.2006,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7232
+31.12.2006,33 Schützenhof,Ausländer,711
+31.12.2006,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,662
+31.12.2006,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,188
+31.12.2006,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,5374
+31.12.2006,34 Düesberg,Ausländer,278
+31.12.2006,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,504
+31.12.2006,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,91
+31.12.2006,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,5742
+31.12.2006,43 Hafen,Ausländer,129
+31.12.2006,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,41
+31.12.2006,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,6
+31.12.2006,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,748
+31.12.2006,44 Herz-Jesu,Ausländer,369
+31.12.2006,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,391
+31.12.2006,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,82
+31.12.2006,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4280
+31.12.2006,45 Mauritz-Mitte,Ausländer,425
+31.12.2006,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,683
+31.12.2006,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,172
+31.12.2006,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8481
+31.12.2006,46 Rumphorst,Ausländer,468
+31.12.2006,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,669
+31.12.2006,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,230
+31.12.2006,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6623
+31.12.2006,47 Uppenberg,Ausländer,637
+31.12.2006,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,790
+31.12.2006,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,252
+31.12.2006,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,5604
+31.12.2006,51 Gievenbeck,Ausländer,2515
+31.12.2006,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2588
+31.12.2006,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,979
+31.12.2006,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,12403
+31.12.2006,52 Sentrup,Ausländer,526
+31.12.2006,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,417
+31.12.2006,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,112
+31.12.2006,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,5333
+31.12.2006,54 Mecklenbeck,Ausländer,607
+31.12.2006,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,1062
+31.12.2006,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,317
+31.12.2006,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7291
+31.12.2006,56 Albachten,Ausländer,314
+31.12.2006,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,618
+31.12.2006,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,213
+31.12.2006,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4157
+31.12.2006,57 Roxel,Ausländer,496
+31.12.2006,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,598
+31.12.2006,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,215
+31.12.2006,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,6651
+31.12.2006,58 Nienberge,Ausländer,302
+31.12.2006,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,470
+31.12.2006,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,135
+31.12.2006,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5593
+31.12.2006,61 Coerde,Ausländer,1461
+31.12.2006,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2415
+31.12.2006,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,775
+31.12.2006,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5267
+31.12.2006,62 Kinderhaus-Ost,Ausländer,361
+31.12.2006,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,667
+31.12.2006,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,187
+31.12.2006,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3800
+31.12.2006,63 Kinderhaus-West,Ausländer,1437
+31.12.2006,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,2083
+31.12.2006,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,626
+31.12.2006,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6547
+31.12.2006,68 Sprakel,Ausländer,91
+31.12.2006,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,191
+31.12.2006,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,60
+31.12.2006,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2498
+31.12.2006,71 Mauritz-Ost,Ausländer,510
+31.12.2006,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,682
+31.12.2006,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,156
+31.12.2006,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,8468
+31.12.2006,76 Gelmer-Dyckburg,Ausländer,149
+31.12.2006,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,195
+31.12.2006,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,75
+31.12.2006,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,2994
+31.12.2006,77 Handorf,Ausländer,286
+31.12.2006,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,614
+31.12.2006,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,146
+31.12.2006,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6198
+31.12.2006,81 Gremmendorf-West,Ausländer,286
+31.12.2006,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,618
+31.12.2006,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,257
+31.12.2006,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3656
+31.12.2006,82 Gremmendorf-Ost,Ausländer,267
+31.12.2006,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,498
+31.12.2006,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,190
+31.12.2006,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5228
+31.12.2006,86 Angelmodde,Ausländer,631
+31.12.2006,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,1063
+31.12.2006,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,352
+31.12.2006,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5505
+31.12.2006,87 Wolbeck,Ausländer,340
+31.12.2006,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,587
+31.12.2006,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,192
+31.12.2006,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7510
+31.12.2006,91 Berg Fidel,Ausländer,865
+31.12.2006,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1356
+31.12.2006,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,368
+31.12.2006,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,3084
+31.12.2006,95 Hiltrup-Ost,Ausländer,337
+31.12.2006,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,696
+31.12.2006,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,183
+31.12.2006,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5586
+31.12.2006,96 Hiltrup-Mitte,Ausländer,744
+31.12.2006,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,972
+31.12.2006,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,305
+31.12.2006,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7759
+31.12.2006,97 Hiltrup-West,Ausländer,670
+31.12.2006,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1095
+31.12.2006,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,424
+31.12.2006,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6696
+31.12.2006,98 Amelsbüren,Ausländer,246
+31.12.2006,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,525
+31.12.2006,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,204
+31.12.2006,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4645
+31.12.2007,11 Aegidii,Ausländer,91
+31.12.2007,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,96
+31.12.2007,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,20
+31.12.2007,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1128
+31.12.2007,12 Überwasser,Ausländer,134
+31.12.2007,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,92
+31.12.2007,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,14
+31.12.2007,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1050
+31.12.2007,13 Dom,Ausländer,161
+31.12.2007,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,140
+31.12.2007,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,16
+31.12.2007,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1734
+31.12.2007,14 Buddenturm,Ausländer,162
+31.12.2007,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,147
+31.12.2007,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,29
+31.12.2007,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,1863
+31.12.2007,15 Martini,Ausländer,118
+31.12.2007,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,72
+31.12.2007,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,11
+31.12.2007,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1048
+31.12.2007,21 Pluggendorf,Ausländer,271
+31.12.2007,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,284
+31.12.2007,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2007,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3215
+31.12.2007,22 Josef,Ausländer,589
+31.12.2007,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,445
+31.12.2007,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,73
+31.12.2007,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,6756
+31.12.2007,23 Bahnhof,Ausländer,87
+31.12.2007,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,86
+31.12.2007,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,5
+31.12.2007,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,828
+31.12.2007,24 Hansaplatz,Ausländer,418
+31.12.2007,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,393
+31.12.2007,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,100
+31.12.2007,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5411
+31.12.2007,25 Mauritz-West,Ausländer,314
+31.12.2007,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,284
+31.12.2007,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,60
+31.12.2007,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,4953
+31.12.2007,26 Schlachthof,Ausländer,281
+31.12.2007,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,449
+31.12.2007,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,184
+31.12.2007,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,3885
+31.12.2007,27 Kreuz,Ausländer,497
+31.12.2007,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,597
+31.12.2007,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,131
+31.12.2007,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,10386
+31.12.2007,28 Neutor,Ausländer,451
+31.12.2007,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,266
+31.12.2007,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,61
+31.12.2007,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3022
+31.12.2007,29 Schloss,Ausländer,160
+31.12.2007,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,110
+31.12.2007,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,21
+31.12.2007,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1593
+31.12.2007,31 Aaseestadt,Ausländer,537
+31.12.2007,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,620
+31.12.2007,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,121
+31.12.2007,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4076
+31.12.2007,32 Geist,Ausländer,551
+31.12.2007,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,698
+31.12.2007,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,192
+31.12.2007,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7200
+31.12.2007,33 Schützenhof,Ausländer,760
+31.12.2007,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,653
+31.12.2007,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,185
+31.12.2007,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,5361
+31.12.2007,34 Düesberg,Ausländer,280
+31.12.2007,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,507
+31.12.2007,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,100
+31.12.2007,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,5745
+31.12.2007,43 Hafen,Ausländer,128
+31.12.2007,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,35
+31.12.2007,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,8
+31.12.2007,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,735
+31.12.2007,44 Herz-Jesu,Ausländer,341
+31.12.2007,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,394
+31.12.2007,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,86
+31.12.2007,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4361
+31.12.2007,45 Mauritz-Mitte,Ausländer,424
+31.12.2007,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,662
+31.12.2007,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,161
+31.12.2007,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8488
+31.12.2007,46 Rumphorst,Ausländer,429
+31.12.2007,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,666
+31.12.2007,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,224
+31.12.2007,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6570
+31.12.2007,47 Uppenberg,Ausländer,666
+31.12.2007,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,785
+31.12.2007,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,275
+31.12.2007,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,5637
+31.12.2007,51 Gievenbeck,Ausländer,2557
+31.12.2007,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2629
+31.12.2007,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1024
+31.12.2007,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,12552
+31.12.2007,52 Sentrup,Ausländer,530
+31.12.2007,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,418
+31.12.2007,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,124
+31.12.2007,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,5188
+31.12.2007,54 Mecklenbeck,Ausländer,581
+31.12.2007,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,1044
+31.12.2007,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,316
+31.12.2007,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7257
+31.12.2007,56 Albachten,Ausländer,301
+31.12.2007,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,633
+31.12.2007,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,241
+31.12.2007,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4236
+31.12.2007,57 Roxel,Ausländer,539
+31.12.2007,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,642
+31.12.2007,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,273
+31.12.2007,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,6652
+31.12.2007,58 Nienberge,Ausländer,284
+31.12.2007,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,473
+31.12.2007,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,129
+31.12.2007,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5555
+31.12.2007,61 Coerde,Ausländer,1428
+31.12.2007,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2442
+31.12.2007,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,836
+31.12.2007,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5272
+31.12.2007,62 Kinderhaus-Ost,Ausländer,389
+31.12.2007,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,635
+31.12.2007,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,190
+31.12.2007,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3769
+31.12.2007,63 Kinderhaus-West,Ausländer,1321
+31.12.2007,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,2021
+31.12.2007,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,636
+31.12.2007,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6442
+31.12.2007,68 Sprakel,Ausländer,107
+31.12.2007,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,199
+31.12.2007,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,66
+31.12.2007,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2493
+31.12.2007,71 Mauritz-Ost,Ausländer,509
+31.12.2007,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,670
+31.12.2007,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,174
+31.12.2007,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,8513
+31.12.2007,76 Gelmer-Dyckburg,Ausländer,135
+31.12.2007,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,195
+31.12.2007,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,71
+31.12.2007,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,3005
+31.12.2007,77 Handorf,Ausländer,293
+31.12.2007,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,607
+31.12.2007,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,167
+31.12.2007,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6261
+31.12.2007,81 Gremmendorf-West,Ausländer,290
+31.12.2007,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,609
+31.12.2007,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,248
+31.12.2007,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3592
+31.12.2007,82 Gremmendorf-Ost,Ausländer,292
+31.12.2007,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,481
+31.12.2007,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,194
+31.12.2007,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5232
+31.12.2007,86 Angelmodde,Ausländer,631
+31.12.2007,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,1045
+31.12.2007,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,371
+31.12.2007,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5448
+31.12.2007,87 Wolbeck,Ausländer,352
+31.12.2007,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,604
+31.12.2007,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,190
+31.12.2007,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7454
+31.12.2007,91 Berg Fidel,Ausländer,867
+31.12.2007,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1361
+31.12.2007,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,359
+31.12.2007,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,3068
+31.12.2007,95 Hiltrup-Ost,Ausländer,290
+31.12.2007,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,681
+31.12.2007,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,196
+31.12.2007,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5504
+31.12.2007,96 Hiltrup-Mitte,Ausländer,715
+31.12.2007,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,971
+31.12.2007,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,327
+31.12.2007,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7721
+31.12.2007,97 Hiltrup-West,Ausländer,681
+31.12.2007,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1105
+31.12.2007,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,463
+31.12.2007,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6598
+31.12.2007,98 Amelsbüren,Ausländer,253
+31.12.2007,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,558
+31.12.2007,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,223
+31.12.2007,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4725
+31.12.2008,11 Aegidii,Ausländer,99
+31.12.2008,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,100
+31.12.2008,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,17
+31.12.2008,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1138
+31.12.2008,12 Überwasser,Ausländer,129
+31.12.2008,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,95
+31.12.2008,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,18
+31.12.2008,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1043
+31.12.2008,13 Dom,Ausländer,172
+31.12.2008,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,150
+31.12.2008,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,20
+31.12.2008,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1769
+31.12.2008,14 Buddenturm,Ausländer,143
+31.12.2008,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,146
+31.12.2008,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,32
+31.12.2008,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,1867
+31.12.2008,15 Martini,Ausländer,110
+31.12.2008,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,77
+31.12.2008,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,13
+31.12.2008,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1094
+31.12.2008,21 Pluggendorf,Ausländer,297
+31.12.2008,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,292
+31.12.2008,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,20
+31.12.2008,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3412
+31.12.2008,22 Josef,Ausländer,555
+31.12.2008,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,446
+31.12.2008,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,80
+31.12.2008,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,6764
+31.12.2008,23 Bahnhof,Ausländer,88
+31.12.2008,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,92
+31.12.2008,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,9
+31.12.2008,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,836
+31.12.2008,24 Hansaplatz,Ausländer,425
+31.12.2008,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,419
+31.12.2008,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,105
+31.12.2008,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5403
+31.12.2008,25 Mauritz-West,Ausländer,297
+31.12.2008,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,288
+31.12.2008,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,64
+31.12.2008,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5007
+31.12.2008,26 Schlachthof,Ausländer,257
+31.12.2008,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,458
+31.12.2008,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,184
+31.12.2008,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,3901
+31.12.2008,27 Kreuz,Ausländer,490
+31.12.2008,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,590
+31.12.2008,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,135
+31.12.2008,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,10398
+31.12.2008,28 Neutor,Ausländer,496
+31.12.2008,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,270
+31.12.2008,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,63
+31.12.2008,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,2982
+31.12.2008,29 Schloss,Ausländer,157
+31.12.2008,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,120
+31.12.2008,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2008,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1588
+31.12.2008,31 Aaseestadt,Ausländer,540
+31.12.2008,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,609
+31.12.2008,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,129
+31.12.2008,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4040
+31.12.2008,32 Geist,Ausländer,558
+31.12.2008,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,685
+31.12.2008,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,192
+31.12.2008,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7155
+31.12.2008,33 Schützenhof,Ausländer,757
+31.12.2008,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,655
+31.12.2008,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,193
+31.12.2008,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,5376
+31.12.2008,34 Düesberg,Ausländer,264
+31.12.2008,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,496
+31.12.2008,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,108
+31.12.2008,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,5757
+31.12.2008,43 Hafen,Ausländer,127
+31.12.2008,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,41
+31.12.2008,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,13
+31.12.2008,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,760
+31.12.2008,44 Herz-Jesu,Ausländer,311
+31.12.2008,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,377
+31.12.2008,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,86
+31.12.2008,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4345
+31.12.2008,45 Mauritz-Mitte,Ausländer,406
+31.12.2008,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,661
+31.12.2008,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,180
+31.12.2008,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8661
+31.12.2008,46 Rumphorst,Ausländer,424
+31.12.2008,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,674
+31.12.2008,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,229
+31.12.2008,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6518
+31.12.2008,47 Uppenberg,Ausländer,678
+31.12.2008,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,803
+31.12.2008,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,281
+31.12.2008,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,5861
+31.12.2008,51 Gievenbeck,Ausländer,2391
+31.12.2008,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2614
+31.12.2008,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1061
+31.12.2008,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,12651
+31.12.2008,52 Sentrup,Ausländer,522
+31.12.2008,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,426
+31.12.2008,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,122
+31.12.2008,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,5238
+31.12.2008,54 Mecklenbeck,Ausländer,570
+31.12.2008,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,1055
+31.12.2008,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,309
+31.12.2008,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7289
+31.12.2008,56 Albachten,Ausländer,332
+31.12.2008,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,650
+31.12.2008,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,261
+31.12.2008,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4312
+31.12.2008,57 Roxel,Ausländer,599
+31.12.2008,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,665
+31.12.2008,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,302
+31.12.2008,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,6720
+31.12.2008,58 Nienberge,Ausländer,245
+31.12.2008,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,459
+31.12.2008,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,132
+31.12.2008,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5494
+31.12.2008,61 Coerde,Ausländer,1456
+31.12.2008,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2409
+31.12.2008,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,856
+31.12.2008,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5229
+31.12.2008,62 Kinderhaus-Ost,Ausländer,369
+31.12.2008,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,643
+31.12.2008,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,187
+31.12.2008,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3783
+31.12.2008,63 Kinderhaus-West,Ausländer,1263
+31.12.2008,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1961
+31.12.2008,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,651
+31.12.2008,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6392
+31.12.2008,68 Sprakel,Ausländer,101
+31.12.2008,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,212
+31.12.2008,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,80
+31.12.2008,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2520
+31.12.2008,71 Mauritz-Ost,Ausländer,487
+31.12.2008,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,661
+31.12.2008,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,185
+31.12.2008,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,8456
+31.12.2008,76 Gelmer-Dyckburg,Ausländer,145
+31.12.2008,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,204
+31.12.2008,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,76
+31.12.2008,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,2993
+31.12.2008,77 Handorf,Ausländer,288
+31.12.2008,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,634
+31.12.2008,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,205
+31.12.2008,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6346
+31.12.2008,81 Gremmendorf-West,Ausländer,296
+31.12.2008,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,586
+31.12.2008,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,246
+31.12.2008,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3554
+31.12.2008,82 Gremmendorf-Ost,Ausländer,281
+31.12.2008,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,466
+31.12.2008,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,192
+31.12.2008,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5257
+31.12.2008,86 Angelmodde,Ausländer,623
+31.12.2008,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,1008
+31.12.2008,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,365
+31.12.2008,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5419
+31.12.2008,87 Wolbeck,Ausländer,375
+31.12.2008,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,624
+31.12.2008,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,218
+31.12.2008,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7418
+31.12.2008,91 Berg Fidel,Ausländer,889
+31.12.2008,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1354
+31.12.2008,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,384
+31.12.2008,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,2998
+31.12.2008,95 Hiltrup-Ost,Ausländer,282
+31.12.2008,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,668
+31.12.2008,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,191
+31.12.2008,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5492
+31.12.2008,96 Hiltrup-Mitte,Ausländer,669
+31.12.2008,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,973
+31.12.2008,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,345
+31.12.2008,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7720
+31.12.2008,97 Hiltrup-West,Ausländer,672
+31.12.2008,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1099
+31.12.2008,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,491
+31.12.2008,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6604
+31.12.2008,98 Amelsbüren,Ausländer,265
+31.12.2008,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,578
+31.12.2008,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,256
+31.12.2008,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4788
+31.12.2009,11 Aegidii,Ausländer,93
+31.12.2009,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,102
+31.12.2009,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,19
+31.12.2009,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1141
+31.12.2009,12 Überwasser,Ausländer,124
+31.12.2009,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,93
+31.12.2009,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,16
+31.12.2009,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1042
+31.12.2009,13 Dom,Ausländer,162
+31.12.2009,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,147
+31.12.2009,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,22
+31.12.2009,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1805
+31.12.2009,14 Buddenturm,Ausländer,131
+31.12.2009,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,150
+31.12.2009,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,32
+31.12.2009,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,1928
+31.12.2009,15 Martini,Ausländer,98
+31.12.2009,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,72
+31.12.2009,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,12
+31.12.2009,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1088
+31.12.2009,21 Pluggendorf,Ausländer,247
+31.12.2009,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,300
+31.12.2009,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,28
+31.12.2009,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3502
+31.12.2009,22 Josef,Ausländer,500
+31.12.2009,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,459
+31.12.2009,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,73
+31.12.2009,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,6877
+31.12.2009,23 Bahnhof,Ausländer,73
+31.12.2009,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,90
+31.12.2009,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,8
+31.12.2009,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,851
+31.12.2009,24 Hansaplatz,Ausländer,427
+31.12.2009,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,418
+31.12.2009,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,90
+31.12.2009,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5493
+31.12.2009,25 Mauritz-West,Ausländer,281
+31.12.2009,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,297
+31.12.2009,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,76
+31.12.2009,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5075
+31.12.2009,26 Schlachthof,Ausländer,249
+31.12.2009,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,437
+31.12.2009,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,179
+31.12.2009,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,3953
+31.12.2009,27 Kreuz,Ausländer,486
+31.12.2009,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,573
+31.12.2009,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,146
+31.12.2009,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,10534
+31.12.2009,28 Neutor,Ausländer,399
+31.12.2009,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,293
+31.12.2009,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,61
+31.12.2009,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3071
+31.12.2009,29 Schloss,Ausländer,170
+31.12.2009,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,119
+31.12.2009,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,31
+31.12.2009,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1585
+31.12.2009,31 Aaseestadt,Ausländer,515
+31.12.2009,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,594
+31.12.2009,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,131
+31.12.2009,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4075
+31.12.2009,32 Geist,Ausländer,555
+31.12.2009,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,704
+31.12.2009,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,213
+31.12.2009,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7202
+31.12.2009,33 Schützenhof,Ausländer,722
+31.12.2009,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,651
+31.12.2009,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,171
+31.12.2009,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,5458
+31.12.2009,34 Düesberg,Ausländer,288
+31.12.2009,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,487
+31.12.2009,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,128
+31.12.2009,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,5809
+31.12.2009,43 Hafen,Ausländer,117
+31.12.2009,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,39
+31.12.2009,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,15
+31.12.2009,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,824
+31.12.2009,44 Herz-Jesu,Ausländer,305
+31.12.2009,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,381
+31.12.2009,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,88
+31.12.2009,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4322
+31.12.2009,45 Mauritz-Mitte,Ausländer,404
+31.12.2009,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,630
+31.12.2009,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,171
+31.12.2009,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8692
+31.12.2009,46 Rumphorst,Ausländer,405
+31.12.2009,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,654
+31.12.2009,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,240
+31.12.2009,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6491
+31.12.2009,47 Uppenberg,Ausländer,679
+31.12.2009,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,792
+31.12.2009,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,295
+31.12.2009,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6234
+31.12.2009,51 Gievenbeck,Ausländer,2390
+31.12.2009,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2629
+31.12.2009,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1093
+31.12.2009,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,12816
+31.12.2009,52 Sentrup,Ausländer,513
+31.12.2009,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,441
+31.12.2009,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,130
+31.12.2009,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,5318
+31.12.2009,54 Mecklenbeck,Ausländer,648
+31.12.2009,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,1047
+31.12.2009,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,300
+31.12.2009,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7302
+31.12.2009,56 Albachten,Ausländer,327
+31.12.2009,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,680
+31.12.2009,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,286
+31.12.2009,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4391
+31.12.2009,57 Roxel,Ausländer,589
+31.12.2009,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,664
+31.12.2009,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,298
+31.12.2009,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,6666
+31.12.2009,58 Nienberge,Ausländer,258
+31.12.2009,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,496
+31.12.2009,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,149
+31.12.2009,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5538
+31.12.2009,61 Coerde,Ausländer,1457
+31.12.2009,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2402
+31.12.2009,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,900
+31.12.2009,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5182
+31.12.2009,62 Kinderhaus-Ost,Ausländer,354
+31.12.2009,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,626
+31.12.2009,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,200
+31.12.2009,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3703
+31.12.2009,63 Kinderhaus-West,Ausländer,1264
+31.12.2009,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1964
+31.12.2009,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,666
+31.12.2009,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6365
+31.12.2009,68 Sprakel,Ausländer,114
+31.12.2009,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,225
+31.12.2009,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,96
+31.12.2009,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2521
+31.12.2009,71 Mauritz-Ost,Ausländer,470
+31.12.2009,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,651
+31.12.2009,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,202
+31.12.2009,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,8420
+31.12.2009,76 Gelmer-Dyckburg,Ausländer,141
+31.12.2009,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,206
+31.12.2009,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,79
+31.12.2009,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,2988
+31.12.2009,77 Handorf,Ausländer,299
+31.12.2009,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,623
+31.12.2009,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,220
+31.12.2009,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6451
+31.12.2009,81 Gremmendorf-West,Ausländer,294
+31.12.2009,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,598
+31.12.2009,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,253
+31.12.2009,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3573
+31.12.2009,82 Gremmendorf-Ost,Ausländer,253
+31.12.2009,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,485
+31.12.2009,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,192
+31.12.2009,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5387
+31.12.2009,86 Angelmodde,Ausländer,648
+31.12.2009,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,983
+31.12.2009,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,359
+31.12.2009,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5360
+31.12.2009,87 Wolbeck,Ausländer,387
+31.12.2009,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,620
+31.12.2009,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,225
+31.12.2009,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7337
+31.12.2009,91 Berg Fidel,Ausländer,877
+31.12.2009,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1314
+31.12.2009,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,390
+31.12.2009,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,3005
+31.12.2009,95 Hiltrup-Ost,Ausländer,288
+31.12.2009,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,631
+31.12.2009,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,207
+31.12.2009,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5453
+31.12.2009,96 Hiltrup-Mitte,Ausländer,685
+31.12.2009,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,963
+31.12.2009,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,344
+31.12.2009,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7754
+31.12.2009,97 Hiltrup-West,Ausländer,678
+31.12.2009,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1129
+31.12.2009,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,516
+31.12.2009,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6585
+31.12.2009,98 Amelsbüren,Ausländer,285
+31.12.2009,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,591
+31.12.2009,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,293
+31.12.2009,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4809
+31.12.2010,11 Aegidii,Ausländer,86
+31.12.2010,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,112
+31.12.2010,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2010,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1135
+31.12.2010,12 Überwasser,Ausländer,123
+31.12.2010,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,83
+31.12.2010,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,17
+31.12.2010,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1050
+31.12.2010,13 Dom,Ausländer,169
+31.12.2010,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,146
+31.12.2010,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,26
+31.12.2010,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1814
+31.12.2010,14 Buddenturm,Ausländer,138
+31.12.2010,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,153
+31.12.2010,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,32
+31.12.2010,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,1937
+31.12.2010,15 Martini,Ausländer,105
+31.12.2010,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,75
+31.12.2010,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,13
+31.12.2010,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1081
+31.12.2010,21 Pluggendorf,Ausländer,270
+31.12.2010,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,283
+31.12.2010,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2010,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3469
+31.12.2010,22 Josef,Ausländer,482
+31.12.2010,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,469
+31.12.2010,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,74
+31.12.2010,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,6955
+31.12.2010,23 Bahnhof,Ausländer,84
+31.12.2010,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,93
+31.12.2010,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,13
+31.12.2010,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,866
+31.12.2010,24 Hansaplatz,Ausländer,439
+31.12.2010,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,405
+31.12.2010,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,102
+31.12.2010,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5643
+31.12.2010,25 Mauritz-West,Ausländer,319
+31.12.2010,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,304
+31.12.2010,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,83
+31.12.2010,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5194
+31.12.2010,26 Schlachthof,Ausländer,269
+31.12.2010,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,437
+31.12.2010,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,183
+31.12.2010,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,3976
+31.12.2010,27 Kreuz,Ausländer,517
+31.12.2010,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,567
+31.12.2010,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,169
+31.12.2010,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,10686
+31.12.2010,28 Neutor,Ausländer,433
+31.12.2010,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,294
+31.12.2010,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,74
+31.12.2010,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3177
+31.12.2010,29 Schloss,Ausländer,167
+31.12.2010,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,146
+31.12.2010,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,35
+31.12.2010,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1722
+31.12.2010,31 Aaseestadt,Ausländer,513
+31.12.2010,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,606
+31.12.2010,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,151
+31.12.2010,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4082
+31.12.2010,32 Geist,Ausländer,563
+31.12.2010,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,696
+31.12.2010,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,217
+31.12.2010,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7262
+31.12.2010,33 Schützenhof,Ausländer,721
+31.12.2010,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,636
+31.12.2010,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,186
+31.12.2010,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,5559
+31.12.2010,34 Düesberg,Ausländer,303
+31.12.2010,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,502
+31.12.2010,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,140
+31.12.2010,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,5881
+31.12.2010,43 Hafen,Ausländer,121
+31.12.2010,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,47
+31.12.2010,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,14
+31.12.2010,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,800
+31.12.2010,44 Herz-Jesu,Ausländer,320
+31.12.2010,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,375
+31.12.2010,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,95
+31.12.2010,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4275
+31.12.2010,45 Mauritz-Mitte,Ausländer,427
+31.12.2010,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,630
+31.12.2010,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,177
+31.12.2010,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8708
+31.12.2010,46 Rumphorst,Ausländer,423
+31.12.2010,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,639
+31.12.2010,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,241
+31.12.2010,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6526
+31.12.2010,47 Uppenberg,Ausländer,684
+31.12.2010,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,795
+31.12.2010,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,292
+31.12.2010,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6313
+31.12.2010,51 Gievenbeck,Ausländer,2248
+31.12.2010,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2595
+31.12.2010,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1142
+31.12.2010,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,12847
+31.12.2010,52 Sentrup,Ausländer,560
+31.12.2010,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,454
+31.12.2010,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,136
+31.12.2010,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,5478
+31.12.2010,54 Mecklenbeck,Ausländer,702
+31.12.2010,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,1041
+31.12.2010,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,297
+31.12.2010,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7295
+31.12.2010,56 Albachten,Ausländer,339
+31.12.2010,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,685
+31.12.2010,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,318
+31.12.2010,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4382
+31.12.2010,57 Roxel,Ausländer,601
+31.12.2010,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,681
+31.12.2010,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,309
+31.12.2010,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,6747
+31.12.2010,58 Nienberge,Ausländer,278
+31.12.2010,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,493
+31.12.2010,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,167
+31.12.2010,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5581
+31.12.2010,61 Coerde,Ausländer,1499
+31.12.2010,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2402
+31.12.2010,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,975
+31.12.2010,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5169
+31.12.2010,62 Kinderhaus-Ost,Ausländer,397
+31.12.2010,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,615
+31.12.2010,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,199
+31.12.2010,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3676
+31.12.2010,63 Kinderhaus-West,Ausländer,1350
+31.12.2010,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1951
+31.12.2010,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,687
+31.12.2010,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6377
+31.12.2010,68 Sprakel,Ausländer,122
+31.12.2010,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,235
+31.12.2010,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,103
+31.12.2010,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2504
+31.12.2010,71 Mauritz-Ost,Ausländer,387
+31.12.2010,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,622
+31.12.2010,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,206
+31.12.2010,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,8501
+31.12.2010,76 Gelmer-Dyckburg,Ausländer,168
+31.12.2010,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,208
+31.12.2010,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,84
+31.12.2010,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,3011
+31.12.2010,77 Handorf,Ausländer,323
+31.12.2010,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,617
+31.12.2010,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,227
+31.12.2010,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6513
+31.12.2010,81 Gremmendorf-West,Ausländer,308
+31.12.2010,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,596
+31.12.2010,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,248
+31.12.2010,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3553
+31.12.2010,82 Gremmendorf-Ost,Ausländer,287
+31.12.2010,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,488
+31.12.2010,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,200
+31.12.2010,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5404
+31.12.2010,86 Angelmodde,Ausländer,674
+31.12.2010,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,963
+31.12.2010,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,383
+31.12.2010,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5348
+31.12.2010,87 Wolbeck,Ausländer,390
+31.12.2010,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,659
+31.12.2010,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,251
+31.12.2010,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7403
+31.12.2010,91 Berg Fidel,Ausländer,887
+31.12.2010,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1286
+31.12.2010,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,390
+31.12.2010,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,3000
+31.12.2010,95 Hiltrup-Ost,Ausländer,268
+31.12.2010,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,616
+31.12.2010,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,199
+31.12.2010,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5444
+31.12.2010,96 Hiltrup-Mitte,Ausländer,662
+31.12.2010,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,995
+31.12.2010,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,378
+31.12.2010,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7752
+31.12.2010,97 Hiltrup-West,Ausländer,707
+31.12.2010,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1136
+31.12.2010,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,545
+31.12.2010,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6534
+31.12.2010,98 Amelsbüren,Ausländer,298
+31.12.2010,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,599
+31.12.2010,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,328
+31.12.2010,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4837
+31.12.2011,11 Aegidii,Ausländer,94
+31.12.2011,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,108
+31.12.2011,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,27
+31.12.2011,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1241
+31.12.2011,12 Überwasser,Ausländer,140
+31.12.2011,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,85
+31.12.2011,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,19
+31.12.2011,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1161
+31.12.2011,13 Dom,Ausländer,161
+31.12.2011,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,165
+31.12.2011,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,20
+31.12.2011,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1938
+31.12.2011,14 Buddenturm,Ausländer,136
+31.12.2011,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,164
+31.12.2011,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,33
+31.12.2011,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,2061
+31.12.2011,15 Martini,Ausländer,115
+31.12.2011,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,81
+31.12.2011,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,12
+31.12.2011,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1155
+31.12.2011,21 Pluggendorf,Ausländer,262
+31.12.2011,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,311
+31.12.2011,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,25
+31.12.2011,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3809
+31.12.2011,22 Josef,Ausländer,508
+31.12.2011,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,451
+31.12.2011,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,75
+31.12.2011,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,7389
+31.12.2011,23 Bahnhof,Ausländer,89
+31.12.2011,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,83
+31.12.2011,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,15
+31.12.2011,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,939
+31.12.2011,24 Hansaplatz,Ausländer,458
+31.12.2011,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,400
+31.12.2011,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,107
+31.12.2011,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5980
+31.12.2011,25 Mauritz-West,Ausländer,324
+31.12.2011,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,313
+31.12.2011,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,83
+31.12.2011,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5483
+31.12.2011,26 Schlachthof,Ausländer,298
+31.12.2011,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,429
+31.12.2011,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,189
+31.12.2011,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,4216
+31.12.2011,27 Kreuz,Ausländer,531
+31.12.2011,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,593
+31.12.2011,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,162
+31.12.2011,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,11362
+31.12.2011,28 Neutor,Ausländer,433
+31.12.2011,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,313
+31.12.2011,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,78
+31.12.2011,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3649
+31.12.2011,29 Schloss,Ausländer,199
+31.12.2011,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,151
+31.12.2011,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,29
+31.12.2011,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1870
+31.12.2011,31 Aaseestadt,Ausländer,556
+31.12.2011,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,603
+31.12.2011,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,167
+31.12.2011,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4211
+31.12.2011,32 Geist,Ausländer,581
+31.12.2011,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,687
+31.12.2011,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,210
+31.12.2011,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7451
+31.12.2011,33 Schützenhof,Ausländer,725
+31.12.2011,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,673
+31.12.2011,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,209
+31.12.2011,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,5922
+31.12.2011,34 Düesberg,Ausländer,332
+31.12.2011,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,508
+31.12.2011,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,144
+31.12.2011,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6008
+31.12.2011,43 Hafen,Ausländer,127
+31.12.2011,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,53
+31.12.2011,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2011,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,872
+31.12.2011,44 Herz-Jesu,Ausländer,298
+31.12.2011,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,366
+31.12.2011,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,99
+31.12.2011,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4462
+31.12.2011,45 Mauritz-Mitte,Ausländer,411
+31.12.2011,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,639
+31.12.2011,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,193
+31.12.2011,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8928
+31.12.2011,46 Rumphorst,Ausländer,433
+31.12.2011,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,631
+31.12.2011,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,234
+31.12.2011,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6654
+31.12.2011,47 Uppenberg,Ausländer,672
+31.12.2011,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,808
+31.12.2011,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,296
+31.12.2011,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6724
+31.12.2011,51 Gievenbeck,Ausländer,2384
+31.12.2011,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2692
+31.12.2011,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1188
+31.12.2011,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,14214
+31.12.2011,52 Sentrup,Ausländer,543
+31.12.2011,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,457
+31.12.2011,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,139
+31.12.2011,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,6155
+31.12.2011,54 Mecklenbeck,Ausländer,800
+31.12.2011,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,1051
+31.12.2011,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,297
+31.12.2011,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7516
+31.12.2011,56 Albachten,Ausländer,379
+31.12.2011,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,708
+31.12.2011,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,342
+31.12.2011,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4464
+31.12.2011,57 Roxel,Ausländer,649
+31.12.2011,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,743
+31.12.2011,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,347
+31.12.2011,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,6942
+31.12.2011,58 Nienberge,Ausländer,303
+31.12.2011,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,507
+31.12.2011,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,180
+31.12.2011,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5812
+31.12.2011,61 Coerde,Ausländer,1639
+31.12.2011,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2366
+31.12.2011,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,990
+31.12.2011,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5326
+31.12.2011,62 Kinderhaus-Ost,Ausländer,433
+31.12.2011,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,596
+31.12.2011,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,199
+31.12.2011,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3711
+31.12.2011,63 Kinderhaus-West,Ausländer,1507
+31.12.2011,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1911
+31.12.2011,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,690
+31.12.2011,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6468
+31.12.2011,68 Sprakel,Ausländer,135
+31.12.2011,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,251
+31.12.2011,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,117
+31.12.2011,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2512
+31.12.2011,71 Mauritz-Ost,Ausländer,401
+31.12.2011,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,627
+31.12.2011,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,212
+31.12.2011,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,8765
+31.12.2011,76 Gelmer-Dyckburg,Ausländer,201
+31.12.2011,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,214
+31.12.2011,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,88
+31.12.2011,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,3055
+31.12.2011,77 Handorf,Ausländer,334
+31.12.2011,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,644
+31.12.2011,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,241
+31.12.2011,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6648
+31.12.2011,81 Gremmendorf-West,Ausländer,333
+31.12.2011,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,562
+31.12.2011,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,237
+31.12.2011,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3549
+31.12.2011,82 Gremmendorf-Ost,Ausländer,316
+31.12.2011,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,493
+31.12.2011,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,206
+31.12.2011,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5474
+31.12.2011,86 Angelmodde,Ausländer,747
+31.12.2011,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,963
+31.12.2011,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,410
+31.12.2011,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5407
+31.12.2011,87 Wolbeck,Ausländer,431
+31.12.2011,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,664
+31.12.2011,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,272
+31.12.2011,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7452
+31.12.2011,91 Berg Fidel,Ausländer,915
+31.12.2011,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1287
+31.12.2011,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,420
+31.12.2011,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,3031
+31.12.2011,95 Hiltrup-Ost,Ausländer,266
+31.12.2011,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,620
+31.12.2011,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,206
+31.12.2011,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5453
+31.12.2011,96 Hiltrup-Mitte,Ausländer,688
+31.12.2011,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,982
+31.12.2011,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,358
+31.12.2011,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7942
+31.12.2011,97 Hiltrup-West,Ausländer,733
+31.12.2011,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1128
+31.12.2011,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,551
+31.12.2011,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6635
+31.12.2011,98 Amelsbüren,Ausländer,323
+31.12.2011,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,618
+31.12.2011,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,358
+31.12.2011,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4885
+31.12.2012,11 Aegidii,Ausländer,99
+31.12.2012,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,93
+31.12.2012,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,27
+31.12.2012,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1235
+31.12.2012,12 Überwasser,Ausländer,133
+31.12.2012,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,85
+31.12.2012,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,18
+31.12.2012,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1148
+31.12.2012,13 Dom,Ausländer,184
+31.12.2012,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,157
+31.12.2012,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,18
+31.12.2012,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1869
+31.12.2012,14 Buddenturm,Ausländer,149
+31.12.2012,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,149
+31.12.2012,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,33
+31.12.2012,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,2032
+31.12.2012,15 Martini,Ausländer,122
+31.12.2012,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,77
+31.12.2012,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,11
+31.12.2012,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1167
+31.12.2012,21 Pluggendorf,Ausländer,295
+31.12.2012,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,301
+31.12.2012,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2012,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3766
+31.12.2012,22 Josef,Ausländer,563
+31.12.2012,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,467
+31.12.2012,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,84
+31.12.2012,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,7295
+31.12.2012,23 Bahnhof,Ausländer,108
+31.12.2012,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,75
+31.12.2012,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,19
+31.12.2012,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,921
+31.12.2012,24 Hansaplatz,Ausländer,474
+31.12.2012,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,391
+31.12.2012,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,109
+31.12.2012,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5961
+31.12.2012,25 Mauritz-West,Ausländer,317
+31.12.2012,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,299
+31.12.2012,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,70
+31.12.2012,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5455
+31.12.2012,26 Schlachthof,Ausländer,310
+31.12.2012,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,420
+31.12.2012,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,181
+31.12.2012,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,4230
+31.12.2012,27 Kreuz,Ausländer,550
+31.12.2012,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,607
+31.12.2012,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,171
+31.12.2012,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,11274
+31.12.2012,28 Neutor,Ausländer,440
+31.12.2012,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,297
+31.12.2012,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,74
+31.12.2012,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3570
+31.12.2012,29 Schloss,Ausländer,184
+31.12.2012,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,149
+31.12.2012,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,29
+31.12.2012,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1879
+31.12.2012,31 Aaseestadt,Ausländer,537
+31.12.2012,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,582
+31.12.2012,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,187
+31.12.2012,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4236
+31.12.2012,32 Geist,Ausländer,572
+31.12.2012,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,667
+31.12.2012,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,212
+31.12.2012,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7433
+31.12.2012,33 Schützenhof,Ausländer,702
+31.12.2012,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,668
+31.12.2012,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,209
+31.12.2012,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,5934
+31.12.2012,34 Düesberg,Ausländer,349
+31.12.2012,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,499
+31.12.2012,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,148
+31.12.2012,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,5998
+31.12.2012,43 Hafen,Ausländer,118
+31.12.2012,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,50
+31.12.2012,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,21
+31.12.2012,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,855
+31.12.2012,44 Herz-Jesu,Ausländer,297
+31.12.2012,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,365
+31.12.2012,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,100
+31.12.2012,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4448
+31.12.2012,45 Mauritz-Mitte,Ausländer,438
+31.12.2012,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,627
+31.12.2012,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,204
+31.12.2012,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8815
+31.12.2012,46 Rumphorst,Ausländer,443
+31.12.2012,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,623
+31.12.2012,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,241
+31.12.2012,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6696
+31.12.2012,47 Uppenberg,Ausländer,697
+31.12.2012,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,816
+31.12.2012,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,296
+31.12.2012,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6757
+31.12.2012,51 Gievenbeck,Ausländer,2535
+31.12.2012,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2673
+31.12.2012,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1215
+31.12.2012,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,14393
+31.12.2012,52 Sentrup,Ausländer,585
+31.12.2012,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,461
+31.12.2012,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,140
+31.12.2012,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,6236
+31.12.2012,54 Mecklenbeck,Ausländer,486
+31.12.2012,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,986
+31.12.2012,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,298
+31.12.2012,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7079
+31.12.2012,56 Albachten,Ausländer,416
+31.12.2012,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,723
+31.12.2012,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,358
+31.12.2012,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4493
+31.12.2012,57 Roxel,Ausländer,701
+31.12.2012,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,758
+31.12.2012,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,383
+31.12.2012,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,6974
+31.12.2012,58 Nienberge,Ausländer,346
+31.12.2012,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,505
+31.12.2012,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,197
+31.12.2012,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5728
+31.12.2012,61 Coerde,Ausländer,1755
+31.12.2012,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2337
+31.12.2012,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,1025
+31.12.2012,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5309
+31.12.2012,62 Kinderhaus-Ost,Ausländer,506
+31.12.2012,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,586
+31.12.2012,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,207
+31.12.2012,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3660
+31.12.2012,63 Kinderhaus-West,Ausländer,1503
+31.12.2012,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1859
+31.12.2012,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,687
+31.12.2012,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6491
+31.12.2012,68 Sprakel,Ausländer,150
+31.12.2012,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,258
+31.12.2012,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,126
+31.12.2012,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2512
+31.12.2012,71 Mauritz-Ost,Ausländer,402
+31.12.2012,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,642
+31.12.2012,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,229
+31.12.2012,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,8979
+31.12.2012,76 Gelmer-Dyckburg,Ausländer,225
+31.12.2012,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,241
+31.12.2012,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,99
+31.12.2012,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,3058
+31.12.2012,77 Handorf,Ausländer,358
+31.12.2012,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,636
+31.12.2012,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,234
+31.12.2012,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6731
+31.12.2012,81 Gremmendorf-West,Ausländer,361
+31.12.2012,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,558
+31.12.2012,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,238
+31.12.2012,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3534
+31.12.2012,82 Gremmendorf-Ost,Ausländer,350
+31.12.2012,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,486
+31.12.2012,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,217
+31.12.2012,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5465
+31.12.2012,86 Angelmodde,Ausländer,780
+31.12.2012,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,967
+31.12.2012,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,424
+31.12.2012,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5356
+31.12.2012,87 Wolbeck,Ausländer,449
+31.12.2012,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,669
+31.12.2012,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,280
+31.12.2012,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7439
+31.12.2012,91 Berg Fidel,Ausländer,1052
+31.12.2012,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1239
+31.12.2012,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,422
+31.12.2012,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,2977
+31.12.2012,95 Hiltrup-Ost,Ausländer,286
+31.12.2012,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,587
+31.12.2012,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,200
+31.12.2012,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5332
+31.12.2012,96 Hiltrup-Mitte,Ausländer,735
+31.12.2012,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,992
+31.12.2012,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,378
+31.12.2012,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7829
+31.12.2012,97 Hiltrup-West,Ausländer,768
+31.12.2012,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1125
+31.12.2012,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,576
+31.12.2012,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6726
+31.12.2012,98 Amelsbüren,Ausländer,350
+31.12.2012,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,645
+31.12.2012,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,370
+31.12.2012,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4896
+31.12.2013,11 Aegidii,Ausländer,101
+31.12.2013,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,93
+31.12.2013,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,26
+31.12.2013,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1242
+31.12.2013,12 Überwasser,Ausländer,137
+31.12.2013,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,90
+31.12.2013,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,20
+31.12.2013,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1138
+31.12.2013,13 Dom,Ausländer,201
+31.12.2013,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,161
+31.12.2013,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,27
+31.12.2013,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1862
+31.12.2013,14 Buddenturm,Ausländer,157
+31.12.2013,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,149
+31.12.2013,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,30
+31.12.2013,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,2079
+31.12.2013,15 Martini,Ausländer,127
+31.12.2013,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,72
+31.12.2013,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,14
+31.12.2013,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1177
+31.12.2013,21 Pluggendorf,Ausländer,327
+31.12.2013,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,288
+31.12.2013,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,27
+31.12.2013,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3769
+31.12.2013,22 Josef,Ausländer,586
+31.12.2013,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,469
+31.12.2013,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,85
+31.12.2013,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,7543
+31.12.2013,23 Bahnhof,Ausländer,160
+31.12.2013,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,80
+31.12.2013,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,17
+31.12.2013,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,943
+31.12.2013,24 Hansaplatz,Ausländer,488
+31.12.2013,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,414
+31.12.2013,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,105
+31.12.2013,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5867
+31.12.2013,25 Mauritz-West,Ausländer,413
+31.12.2013,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,288
+31.12.2013,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,72
+31.12.2013,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5429
+31.12.2013,26 Schlachthof,Ausländer,314
+31.12.2013,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,419
+31.12.2013,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,194
+31.12.2013,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,4304
+31.12.2013,27 Kreuz,Ausländer,587
+31.12.2013,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,588
+31.12.2013,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,159
+31.12.2013,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,11216
+31.12.2013,28 Neutor,Ausländer,480
+31.12.2013,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,287
+31.12.2013,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,70
+31.12.2013,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3451
+31.12.2013,29 Schloss,Ausländer,197
+31.12.2013,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,154
+31.12.2013,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,29
+31.12.2013,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1865
+31.12.2013,31 Aaseestadt,Ausländer,473
+31.12.2013,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,562
+31.12.2013,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,177
+31.12.2013,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4322
+31.12.2013,32 Geist,Ausländer,558
+31.12.2013,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,674
+31.12.2013,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,217
+31.12.2013,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7415
+31.12.2013,33 Schützenhof,Ausländer,717
+31.12.2013,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,660
+31.12.2013,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,236
+31.12.2013,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,6019
+31.12.2013,34 Düesberg,Ausländer,378
+31.12.2013,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,497
+31.12.2013,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,134
+31.12.2013,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6026
+31.12.2013,43 Hafen,Ausländer,142
+31.12.2013,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,48
+31.12.2013,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,25
+31.12.2013,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,848
+31.12.2013,44 Herz-Jesu,Ausländer,298
+31.12.2013,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,373
+31.12.2013,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,103
+31.12.2013,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4374
+31.12.2013,45 Mauritz-Mitte,Ausländer,466
+31.12.2013,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,620
+31.12.2013,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,210
+31.12.2013,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8931
+31.12.2013,46 Rumphorst,Ausländer,475
+31.12.2013,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,636
+31.12.2013,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,231
+31.12.2013,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6723
+31.12.2013,47 Uppenberg,Ausländer,725
+31.12.2013,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,802
+31.12.2013,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,315
+31.12.2013,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6767
+31.12.2013,51 Gievenbeck,Ausländer,2560
+31.12.2013,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2649
+31.12.2013,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1248
+31.12.2013,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,14617
+31.12.2013,52 Sentrup,Ausländer,599
+31.12.2013,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,453
+31.12.2013,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,146
+31.12.2013,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,6270
+31.12.2013,54 Mecklenbeck,Ausländer,533
+31.12.2013,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,977
+31.12.2013,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,313
+31.12.2013,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7126
+31.12.2013,56 Albachten,Ausländer,453
+31.12.2013,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,736
+31.12.2013,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,382
+31.12.2013,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4557
+31.12.2013,57 Roxel,Ausländer,746
+31.12.2013,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,812
+31.12.2013,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,420
+31.12.2013,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,6986
+31.12.2013,58 Nienberge,Ausländer,394
+31.12.2013,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,496
+31.12.2013,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,218
+31.12.2013,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5698
+31.12.2013,61 Coerde,Ausländer,1862
+31.12.2013,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2294
+31.12.2013,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,1043
+31.12.2013,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5229
+31.12.2013,62 Kinderhaus-Ost,Ausländer,544
+31.12.2013,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,571
+31.12.2013,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,205
+31.12.2013,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3701
+31.12.2013,63 Kinderhaus-West,Ausländer,1483
+31.12.2013,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1832
+31.12.2013,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,718
+31.12.2013,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6446
+31.12.2013,68 Sprakel,Ausländer,149
+31.12.2013,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,266
+31.12.2013,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,132
+31.12.2013,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2506
+31.12.2013,71 Mauritz-Ost,Ausländer,442
+31.12.2013,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,639
+31.12.2013,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,228
+31.12.2013,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,8981
+31.12.2013,76 Gelmer-Dyckburg,Ausländer,249
+31.12.2013,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,242
+31.12.2013,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,113
+31.12.2013,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,3054
+31.12.2013,77 Handorf,Ausländer,368
+31.12.2013,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,621
+31.12.2013,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,244
+31.12.2013,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6699
+31.12.2013,81 Gremmendorf-West,Ausländer,372
+31.12.2013,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,556
+31.12.2013,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,247
+31.12.2013,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3654
+31.12.2013,82 Gremmendorf-Ost,Ausländer,401
+31.12.2013,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,483
+31.12.2013,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,217
+31.12.2013,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5425
+31.12.2013,86 Angelmodde,Ausländer,952
+31.12.2013,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,980
+31.12.2013,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,439
+31.12.2013,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5420
+31.12.2013,87 Wolbeck,Ausländer,502
+31.12.2013,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,685
+31.12.2013,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,321
+31.12.2013,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7416
+31.12.2013,91 Berg Fidel,Ausländer,1072
+31.12.2013,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1203
+31.12.2013,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,445
+31.12.2013,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,2953
+31.12.2013,95 Hiltrup-Ost,Ausländer,271
+31.12.2013,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,585
+31.12.2013,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,213
+31.12.2013,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5289
+31.12.2013,96 Hiltrup-Mitte,Ausländer,735
+31.12.2013,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,980
+31.12.2013,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,376
+31.12.2013,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7836
+31.12.2013,97 Hiltrup-West,Ausländer,767
+31.12.2013,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1142
+31.12.2013,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,565
+31.12.2013,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6716
+31.12.2013,98 Amelsbüren,Ausländer,393
+31.12.2013,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,614
+31.12.2013,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,373
+31.12.2013,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4906
+31.12.2014,11 Aegidii,Ausländer,108
+31.12.2014,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,96
+31.12.2014,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,29
+31.12.2014,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1217
+31.12.2014,12 Überwasser,Ausländer,111
+31.12.2014,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,86
+31.12.2014,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,24
+31.12.2014,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1133
+31.12.2014,13 Dom,Ausländer,184
+31.12.2014,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,148
+31.12.2014,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2014,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1844
+31.12.2014,14 Buddenturm,Ausländer,180
+31.12.2014,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,157
+31.12.2014,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,28
+31.12.2014,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,2067
+31.12.2014,15 Martini,Ausländer,137
+31.12.2014,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,69
+31.12.2014,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,13
+31.12.2014,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1165
+31.12.2014,21 Pluggendorf,Ausländer,389
+31.12.2014,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,263
+31.12.2014,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,31
+31.12.2014,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3839
+31.12.2014,22 Josef,Ausländer,624
+31.12.2014,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,459
+31.12.2014,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,95
+31.12.2014,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,7510
+31.12.2014,23 Bahnhof,Ausländer,183
+31.12.2014,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,91
+31.12.2014,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2014,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,954
+31.12.2014,24 Hansaplatz,Ausländer,521
+31.12.2014,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,391
+31.12.2014,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,111
+31.12.2014,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5909
+31.12.2014,25 Mauritz-West,Ausländer,386
+31.12.2014,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,295
+31.12.2014,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,70
+31.12.2014,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5509
+31.12.2014,26 Schlachthof,Ausländer,311
+31.12.2014,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,433
+31.12.2014,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,201
+31.12.2014,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,4339
+31.12.2014,27 Kreuz,Ausländer,596
+31.12.2014,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,584
+31.12.2014,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,160
+31.12.2014,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,11184
+31.12.2014,28 Neutor,Ausländer,462
+31.12.2014,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,288
+31.12.2014,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,88
+31.12.2014,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3500
+31.12.2014,29 Schloss,Ausländer,196
+31.12.2014,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,144
+31.12.2014,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,28
+31.12.2014,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1842
+31.12.2014,31 Aaseestadt,Ausländer,422
+31.12.2014,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,534
+31.12.2014,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,187
+31.12.2014,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4336
+31.12.2014,32 Geist,Ausländer,569
+31.12.2014,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,687
+31.12.2014,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,229
+31.12.2014,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7491
+31.12.2014,33 Schützenhof,Ausländer,709
+31.12.2014,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,659
+31.12.2014,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,249
+31.12.2014,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,6071
+31.12.2014,34 Düesberg,Ausländer,388
+31.12.2014,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,486
+31.12.2014,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,146
+31.12.2014,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6016
+31.12.2014,43 Hafen,Ausländer,150
+31.12.2014,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,51
+31.12.2014,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2014,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,821
+31.12.2014,44 Herz-Jesu,Ausländer,297
+31.12.2014,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,347
+31.12.2014,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,105
+31.12.2014,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4453
+31.12.2014,45 Mauritz-Mitte,Ausländer,503
+31.12.2014,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,623
+31.12.2014,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,220
+31.12.2014,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8874
+31.12.2014,46 Rumphorst,Ausländer,588
+31.12.2014,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,623
+31.12.2014,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,229
+31.12.2014,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6659
+31.12.2014,47 Uppenberg,Ausländer,780
+31.12.2014,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,794
+31.12.2014,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,312
+31.12.2014,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6719
+31.12.2014,51 Gievenbeck,Ausländer,2696
+31.12.2014,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2601
+31.12.2014,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1282
+31.12.2014,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,14576
+31.12.2014,52 Sentrup,Ausländer,824
+31.12.2014,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,465
+31.12.2014,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,137
+31.12.2014,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,6205
+31.12.2014,54 Mecklenbeck,Ausländer,564
+31.12.2014,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,987
+31.12.2014,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,301
+31.12.2014,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7398
+31.12.2014,56 Albachten,Ausländer,467
+31.12.2014,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,754
+31.12.2014,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,411
+31.12.2014,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4612
+31.12.2014,57 Roxel,Ausländer,779
+31.12.2014,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,805
+31.12.2014,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,430
+31.12.2014,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,7068
+31.12.2014,58 Nienberge,Ausländer,447
+31.12.2014,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,508
+31.12.2014,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,218
+31.12.2014,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5596
+31.12.2014,61 Coerde,Ausländer,1947
+31.12.2014,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2250
+31.12.2014,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,1045
+31.12.2014,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5313
+31.12.2014,62 Kinderhaus-Ost,Ausländer,556
+31.12.2014,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,566
+31.12.2014,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,213
+31.12.2014,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3663
+31.12.2014,63 Kinderhaus-West,Ausländer,1593
+31.12.2014,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1841
+31.12.2014,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,704
+31.12.2014,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6375
+31.12.2014,68 Sprakel,Ausländer,202
+31.12.2014,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,268
+31.12.2014,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,139
+31.12.2014,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2493
+31.12.2014,71 Mauritz-Ost,Ausländer,478
+31.12.2014,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,629
+31.12.2014,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,237
+31.12.2014,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,8973
+31.12.2014,76 Gelmer-Dyckburg,Ausländer,260
+31.12.2014,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,242
+31.12.2014,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,117
+31.12.2014,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,3073
+31.12.2014,77 Handorf,Ausländer,425
+31.12.2014,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,641
+31.12.2014,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,251
+31.12.2014,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6700
+31.12.2014,81 Gremmendorf-West,Ausländer,492
+31.12.2014,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,547
+31.12.2014,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,238
+31.12.2014,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3655
+31.12.2014,82 Gremmendorf-Ost,Ausländer,443
+31.12.2014,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,459
+31.12.2014,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,220
+31.12.2014,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5400
+31.12.2014,86 Angelmodde,Ausländer,1054
+31.12.2014,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,998
+31.12.2014,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,492
+31.12.2014,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5386
+31.12.2014,87 Wolbeck,Ausländer,487
+31.12.2014,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,692
+31.12.2014,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,335
+31.12.2014,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7467
+31.12.2014,91 Berg Fidel,Ausländer,1079
+31.12.2014,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1180
+31.12.2014,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,435
+31.12.2014,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,2946
+31.12.2014,95 Hiltrup-Ost,Ausländer,289
+31.12.2014,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,571
+31.12.2014,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,213
+31.12.2014,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5277
+31.12.2014,96 Hiltrup-Mitte,Ausländer,742
+31.12.2014,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,976
+31.12.2014,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,372
+31.12.2014,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7791
+31.12.2014,97 Hiltrup-West,Ausländer,812
+31.12.2014,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1133
+31.12.2014,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,569
+31.12.2014,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6770
+31.12.2014,98 Amelsbüren,Ausländer,401
+31.12.2014,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,613
+31.12.2014,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,357
+31.12.2014,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4873
+31.12.2015,11 Aegidii,Ausländer,93
+31.12.2015,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,98
+31.12.2015,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,36
+31.12.2015,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1218
+31.12.2015,12 Überwasser,Ausländer,108
+31.12.2015,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,87
+31.12.2015,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,24
+31.12.2015,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1163
+31.12.2015,13 Dom,Ausländer,208
+31.12.2015,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,147
+31.12.2015,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,26
+31.12.2015,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1875
+31.12.2015,14 Buddenturm,Ausländer,299
+31.12.2015,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,143
+31.12.2015,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,29
+31.12.2015,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,2078
+31.12.2015,15 Martini,Ausländer,130
+31.12.2015,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,72
+31.12.2015,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,14
+31.12.2015,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1176
+31.12.2015,21 Pluggendorf,Ausländer,421
+31.12.2015,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,272
+31.12.2015,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,35
+31.12.2015,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3832
+31.12.2015,22 Josef,Ausländer,645
+31.12.2015,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,468
+31.12.2015,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,98
+31.12.2015,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,7584
+31.12.2015,23 Bahnhof,Ausländer,204
+31.12.2015,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,91
+31.12.2015,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,24
+31.12.2015,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,957
+31.12.2015,24 Hansaplatz,Ausländer,518
+31.12.2015,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,402
+31.12.2015,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,114
+31.12.2015,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5918
+31.12.2015,25 Mauritz-West,Ausländer,488
+31.12.2015,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,295
+31.12.2015,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,88
+31.12.2015,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5563
+31.12.2015,26 Schlachthof,Ausländer,351
+31.12.2015,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,422
+31.12.2015,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,196
+31.12.2015,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,4384
+31.12.2015,27 Kreuz,Ausländer,633
+31.12.2015,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,593
+31.12.2015,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,156
+31.12.2015,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,11231
+31.12.2015,28 Neutor,Ausländer,541
+31.12.2015,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,292
+31.12.2015,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,99
+31.12.2015,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3610
+31.12.2015,29 Schloss,Ausländer,167
+31.12.2015,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,131
+31.12.2015,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,30
+31.12.2015,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1883
+31.12.2015,31 Aaseestadt,Ausländer,468
+31.12.2015,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,525
+31.12.2015,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,180
+31.12.2015,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4424
+31.12.2015,32 Geist,Ausländer,632
+31.12.2015,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,670
+31.12.2015,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,228
+31.12.2015,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7490
+31.12.2015,33 Schützenhof,Ausländer,781
+31.12.2015,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,692
+31.12.2015,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,278
+31.12.2015,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,6189
+31.12.2015,34 Düesberg,Ausländer,435
+31.12.2015,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,492
+31.12.2015,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,147
+31.12.2015,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6059
+31.12.2015,43 Hafen,Ausländer,118
+31.12.2015,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,51
+31.12.2015,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,24
+31.12.2015,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,835
+31.12.2015,44 Herz-Jesu,Ausländer,303
+31.12.2015,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,348
+31.12.2015,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,104
+31.12.2015,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4444
+31.12.2015,45 Mauritz-Mitte,Ausländer,533
+31.12.2015,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,608
+31.12.2015,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,239
+31.12.2015,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8898
+31.12.2015,46 Rumphorst,Ausländer,660
+31.12.2015,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,617
+31.12.2015,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,245
+31.12.2015,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6688
+31.12.2015,47 Uppenberg,Ausländer,811
+31.12.2015,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,801
+31.12.2015,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,325
+31.12.2015,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6806
+31.12.2015,51 Gievenbeck,Ausländer,3262
+31.12.2015,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2564
+31.12.2015,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1311
+31.12.2015,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,14689
+31.12.2015,52 Sentrup,Ausländer,962
+31.12.2015,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,422
+31.12.2015,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,128
+31.12.2015,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,6215
+31.12.2015,54 Mecklenbeck,Ausländer,592
+31.12.2015,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,962
+31.12.2015,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,309
+31.12.2015,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7447
+31.12.2015,56 Albachten,Ausländer,540
+31.12.2015,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,781
+31.12.2015,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,436
+31.12.2015,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4657
+31.12.2015,57 Roxel,Ausländer,936
+31.12.2015,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,777
+31.12.2015,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,431
+31.12.2015,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,7040
+31.12.2015,58 Nienberge,Ausländer,586
+31.12.2015,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,519
+31.12.2015,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,232
+31.12.2015,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5567
+31.12.2015,61 Coerde,Ausländer,2144
+31.12.2015,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2222
+31.12.2015,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,1064
+31.12.2015,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5336
+31.12.2015,62 Kinderhaus-Ost,Ausländer,607
+31.12.2015,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,568
+31.12.2015,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,221
+31.12.2015,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3651
+31.12.2015,63 Kinderhaus-West,Ausländer,1578
+31.12.2015,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1780
+31.12.2015,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,710
+31.12.2015,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6296
+31.12.2015,68 Sprakel,Ausländer,200
+31.12.2015,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,286
+31.12.2015,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,151
+31.12.2015,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2538
+31.12.2015,71 Mauritz-Ost,Ausländer,673
+31.12.2015,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,627
+31.12.2015,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,234
+31.12.2015,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,9013
+31.12.2015,76 Gelmer-Dyckburg,Ausländer,279
+31.12.2015,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,259
+31.12.2015,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,141
+31.12.2015,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,3051
+31.12.2015,77 Handorf,Ausländer,496
+31.12.2015,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,641
+31.12.2015,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,265
+31.12.2015,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6598
+31.12.2015,81 Gremmendorf-West,Ausländer,1135
+31.12.2015,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,533
+31.12.2015,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,232
+31.12.2015,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3682
+31.12.2015,82 Gremmendorf-Ost,Ausländer,475
+31.12.2015,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,440
+31.12.2015,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,207
+31.12.2015,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5387
+31.12.2015,86 Angelmodde,Ausländer,1217
+31.12.2015,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,993
+31.12.2015,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,503
+31.12.2015,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5491
+31.12.2015,87 Wolbeck,Ausländer,600
+31.12.2015,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,714
+31.12.2015,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,349
+31.12.2015,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7550
+31.12.2015,91 Berg Fidel,Ausländer,1243
+31.12.2015,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1155
+31.12.2015,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,460
+31.12.2015,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,2927
+31.12.2015,95 Hiltrup-Ost,Ausländer,293
+31.12.2015,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,565
+31.12.2015,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,223
+31.12.2015,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5192
+31.12.2015,96 Hiltrup-Mitte,Ausländer,840
+31.12.2015,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,962
+31.12.2015,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,364
+31.12.2015,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7768
+31.12.2015,97 Hiltrup-West,Ausländer,819
+31.12.2015,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1160
+31.12.2015,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,600
+31.12.2015,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6837
+31.12.2015,98 Amelsbüren,Ausländer,527
+31.12.2015,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,622
+31.12.2015,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,368
+31.12.2015,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4900
+31.12.2016,11 Aegidii,Ausländer,101
+31.12.2016,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,102
+31.12.2016,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,46
+31.12.2016,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1216
+31.12.2016,12 Überwasser,Ausländer,113
+31.12.2016,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,83
+31.12.2016,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2016,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1162
+31.12.2016,13 Dom,Ausländer,223
+31.12.2016,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,148
+31.12.2016,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,25
+31.12.2016,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1881
+31.12.2016,14 Buddenturm,Ausländer,320
+31.12.2016,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,139
+31.12.2016,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,26
+31.12.2016,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,2078
+31.12.2016,15 Martini,Ausländer,158
+31.12.2016,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,71
+31.12.2016,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,13
+31.12.2016,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1180
+31.12.2016,21 Pluggendorf,Ausländer,369
+31.12.2016,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,266
+31.12.2016,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,39
+31.12.2016,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3871
+31.12.2016,22 Josef,Ausländer,609
+31.12.2016,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,459
+31.12.2016,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,103
+31.12.2016,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,7602
+31.12.2016,23 Bahnhof,Ausländer,237
+31.12.2016,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,89
+31.12.2016,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,34
+31.12.2016,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,981
+31.12.2016,24 Hansaplatz,Ausländer,517
+31.12.2016,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,389
+31.12.2016,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,107
+31.12.2016,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5943
+31.12.2016,25 Mauritz-West,Ausländer,486
+31.12.2016,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,286
+31.12.2016,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,93
+31.12.2016,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5575
+31.12.2016,26 Schlachthof,Ausländer,394
+31.12.2016,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,419
+31.12.2016,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,209
+31.12.2016,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,4473
+31.12.2016,27 Kreuz,Ausländer,649
+31.12.2016,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,597
+31.12.2016,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,172
+31.12.2016,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,11253
+31.12.2016,28 Neutor,Ausländer,586
+31.12.2016,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,271
+31.12.2016,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,107
+31.12.2016,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3696
+31.12.2016,29 Schloss,Ausländer,191
+31.12.2016,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,131
+31.12.2016,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,30
+31.12.2016,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1879
+31.12.2016,31 Aaseestadt,Ausländer,540
+31.12.2016,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,508
+31.12.2016,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,189
+31.12.2016,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4485
+31.12.2016,32 Geist,Ausländer,680
+31.12.2016,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,659
+31.12.2016,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,237
+31.12.2016,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7545
+31.12.2016,33 Schützenhof,Ausländer,919
+31.12.2016,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,685
+31.12.2016,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,269
+31.12.2016,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,6223
+31.12.2016,34 Düesberg,Ausländer,525
+31.12.2016,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,470
+31.12.2016,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,142
+31.12.2016,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6040
+31.12.2016,43 Hafen,Ausländer,115
+31.12.2016,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,52
+31.12.2016,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2016,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,884
+31.12.2016,44 Herz-Jesu,Ausländer,326
+31.12.2016,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,328
+31.12.2016,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,100
+31.12.2016,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4434
+31.12.2016,45 Mauritz-Mitte,Ausländer,571
+31.12.2016,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,582
+31.12.2016,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,236
+31.12.2016,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8905
+31.12.2016,46 Rumphorst,Ausländer,683
+31.12.2016,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,615
+31.12.2016,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,253
+31.12.2016,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6617
+31.12.2016,47 Uppenberg,Ausländer,906
+31.12.2016,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,800
+31.12.2016,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,332
+31.12.2016,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6880
+31.12.2016,51 Gievenbeck,Ausländer,3006
+31.12.2016,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2530
+31.12.2016,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1283
+31.12.2016,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,14750
+31.12.2016,52 Sentrup,Ausländer,954
+31.12.2016,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,448
+31.12.2016,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,124
+31.12.2016,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,6305
+31.12.2016,54 Mecklenbeck,Ausländer,650
+31.12.2016,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,938
+31.12.2016,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,304
+31.12.2016,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7487
+31.12.2016,56 Albachten,Ausländer,556
+31.12.2016,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,772
+31.12.2016,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,434
+31.12.2016,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4741
+31.12.2016,57 Roxel,Ausländer,987
+31.12.2016,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,784
+31.12.2016,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,436
+31.12.2016,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,7023
+31.12.2016,58 Nienberge,Ausländer,648
+31.12.2016,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,508
+31.12.2016,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,241
+31.12.2016,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5567
+31.12.2016,61 Coerde,Ausländer,2435
+31.12.2016,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2192
+31.12.2016,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,1076
+31.12.2016,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5343
+31.12.2016,62 Kinderhaus-Ost,Ausländer,636
+31.12.2016,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,554
+31.12.2016,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,212
+31.12.2016,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3631
+31.12.2016,63 Kinderhaus-West,Ausländer,1702
+31.12.2016,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1797
+31.12.2016,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,709
+31.12.2016,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6387
+31.12.2016,68 Sprakel,Ausländer,203
+31.12.2016,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,318
+31.12.2016,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,191
+31.12.2016,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2559
+31.12.2016,71 Mauritz-Ost,Ausländer,821
+31.12.2016,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,651
+31.12.2016,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,272
+31.12.2016,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,9073
+31.12.2016,76 Gelmer-Dyckburg,Ausländer,323
+31.12.2016,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,253
+31.12.2016,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,144
+31.12.2016,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,3088
+31.12.2016,77 Handorf,Ausländer,642
+31.12.2016,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,658
+31.12.2016,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,274
+31.12.2016,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6573
+31.12.2016,81 Gremmendorf-West,Ausländer,907
+31.12.2016,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,519
+31.12.2016,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,226
+31.12.2016,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3667
+31.12.2016,82 Gremmendorf-Ost,Ausländer,504
+31.12.2016,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,437
+31.12.2016,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,211
+31.12.2016,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5389
+31.12.2016,86 Angelmodde,Ausländer,1263
+31.12.2016,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,946
+31.12.2016,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,495
+31.12.2016,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5496
+31.12.2016,87 Wolbeck,Ausländer,699
+31.12.2016,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,717
+31.12.2016,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,373
+31.12.2016,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7526
+31.12.2016,91 Berg Fidel,Ausländer,1440
+31.12.2016,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1104
+31.12.2016,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,439
+31.12.2016,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,2918
+31.12.2016,95 Hiltrup-Ost,Ausländer,351
+31.12.2016,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,566
+31.12.2016,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,243
+31.12.2016,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5178
+31.12.2016,96 Hiltrup-Mitte,Ausländer,844
+31.12.2016,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,943
+31.12.2016,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,359
+31.12.2016,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7826
+31.12.2016,97 Hiltrup-West,Ausländer,865
+31.12.2016,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1173
+31.12.2016,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,598
+31.12.2016,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6950
+31.12.2016,98 Amelsbüren,Ausländer,544
+31.12.2016,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,623
+31.12.2016,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,378
+31.12.2016,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4954
+31.12.2017,11 Aegidii,Ausländer,104
+31.12.2017,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,96
+31.12.2017,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,44
+31.12.2017,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1234
+31.12.2017,12 Überwasser,Ausländer,112
+31.12.2017,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,86
+31.12.2017,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,22
+31.12.2017,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1164
+31.12.2017,13 Dom,Ausländer,232
+31.12.2017,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,142
+31.12.2017,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,22
+31.12.2017,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1847
+31.12.2017,14 Buddenturm,Ausländer,190
+31.12.2017,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,133
+31.12.2017,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,27
+31.12.2017,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,2086
+31.12.2017,15 Martini,Ausländer,132
+31.12.2017,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,69
+31.12.2017,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,13
+31.12.2017,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1165
+31.12.2017,21 Pluggendorf,Ausländer,380
+31.12.2017,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,262
+31.12.2017,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,46
+31.12.2017,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3868
+31.12.2017,22 Josef,Ausländer,577
+31.12.2017,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,464
+31.12.2017,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,102
+31.12.2017,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,7543
+31.12.2017,23 Bahnhof,Ausländer,277
+31.12.2017,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,87
+31.12.2017,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,35
+31.12.2017,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,1001
+31.12.2017,24 Hansaplatz,Ausländer,555
+31.12.2017,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,392
+31.12.2017,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,115
+31.12.2017,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5971
+31.12.2017,25 Mauritz-West,Ausländer,403
+31.12.2017,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,279
+31.12.2017,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,87
+31.12.2017,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5558
+31.12.2017,26 Schlachthof,Ausländer,435
+31.12.2017,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,422
+31.12.2017,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,205
+31.12.2017,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,4703
+31.12.2017,27 Kreuz,Ausländer,692
+31.12.2017,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,581
+31.12.2017,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,184
+31.12.2017,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,11257
+31.12.2017,28 Neutor,Ausländer,587
+31.12.2017,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,278
+31.12.2017,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,119
+31.12.2017,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3704
+31.12.2017,29 Schloss,Ausländer,208
+31.12.2017,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,139
+31.12.2017,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,28
+31.12.2017,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1983
+31.12.2017,31 Aaseestadt,Ausländer,589
+31.12.2017,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,490
+31.12.2017,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,192
+31.12.2017,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4461
+31.12.2017,32 Geist,Ausländer,734
+31.12.2017,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,654
+31.12.2017,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,241
+31.12.2017,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7645
+31.12.2017,33 Schützenhof,Ausländer,960
+31.12.2017,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,687
+31.12.2017,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,267
+31.12.2017,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,6232
+31.12.2017,34 Düesberg,Ausländer,589
+31.12.2017,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,459
+31.12.2017,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,146
+31.12.2017,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6045
+31.12.2017,43 Hafen,Ausländer,107
+31.12.2017,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,53
+31.12.2017,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,21
+31.12.2017,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,906
+31.12.2017,44 Herz-Jesu,Ausländer,332
+31.12.2017,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,314
+31.12.2017,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,100
+31.12.2017,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4456
+31.12.2017,45 Mauritz-Mitte,Ausländer,654
+31.12.2017,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,583
+31.12.2017,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,230
+31.12.2017,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,9001
+31.12.2017,46 Rumphorst,Ausländer,568
+31.12.2017,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,613
+31.12.2017,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,269
+31.12.2017,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6642
+31.12.2017,47 Uppenberg,Ausländer,940
+31.12.2017,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,793
+31.12.2017,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,332
+31.12.2017,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6905
+31.12.2017,51 Gievenbeck,Ausländer,2883
+31.12.2017,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2460
+31.12.2017,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1282
+31.12.2017,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,14693
+31.12.2017,52 Sentrup,Ausländer,781
+31.12.2017,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,448
+31.12.2017,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,122
+31.12.2017,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,6325
+31.12.2017,54 Mecklenbeck,Ausländer,721
+31.12.2017,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,937
+31.12.2017,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,313
+31.12.2017,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7519
+31.12.2017,56 Albachten,Ausländer,546
+31.12.2017,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,800
+31.12.2017,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,445
+31.12.2017,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4739
+31.12.2017,57 Roxel,Ausländer,1078
+31.12.2017,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,794
+31.12.2017,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,441
+31.12.2017,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,6988
+31.12.2017,58 Nienberge,Ausländer,660
+31.12.2017,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,482
+31.12.2017,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,237
+31.12.2017,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5528
+31.12.2017,61 Coerde,Ausländer,2639
+31.12.2017,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2087
+31.12.2017,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,1075
+31.12.2017,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5311
+31.12.2017,62 Kinderhaus-Ost,Ausländer,683
+31.12.2017,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,530
+31.12.2017,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,213
+31.12.2017,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3660
+31.12.2017,63 Kinderhaus-West,Ausländer,1788
+31.12.2017,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1745
+31.12.2017,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,720
+31.12.2017,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6369
+31.12.2017,68 Sprakel,Ausländer,216
+31.12.2017,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,341
+31.12.2017,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,215
+31.12.2017,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2579
+31.12.2017,71 Mauritz-Ost,Ausländer,863
+31.12.2017,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,640
+31.12.2017,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,285
+31.12.2017,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,9041
+31.12.2017,76 Gelmer-Dyckburg,Ausländer,357
+31.12.2017,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,261
+31.12.2017,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,151
+31.12.2017,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,3076
+31.12.2017,77 Handorf,Ausländer,578
+31.12.2017,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,646
+31.12.2017,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,287
+31.12.2017,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6574
+31.12.2017,81 Gremmendorf-West,Ausländer,1487
+31.12.2017,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,520
+31.12.2017,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,232
+31.12.2017,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3716
+31.12.2017,82 Gremmendorf-Ost,Ausländer,500
+31.12.2017,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,438
+31.12.2017,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,212
+31.12.2017,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5438
+31.12.2017,86 Angelmodde,Ausländer,1423
+31.12.2017,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,948
+31.12.2017,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,526
+31.12.2017,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5568
+31.12.2017,87 Wolbeck,Ausländer,750
+31.12.2017,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,724
+31.12.2017,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,396
+31.12.2017,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7548
+31.12.2017,91 Berg Fidel,Ausländer,1550
+31.12.2017,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1062
+31.12.2017,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,449
+31.12.2017,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,2871
+31.12.2017,95 Hiltrup-Ost,Ausländer,316
+31.12.2017,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,564
+31.12.2017,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,247
+31.12.2017,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5107
+31.12.2017,96 Hiltrup-Mitte,Ausländer,888
+31.12.2017,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,930
+31.12.2017,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,345
+31.12.2017,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7848
+31.12.2017,97 Hiltrup-West,Ausländer,928
+31.12.2017,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1174
+31.12.2017,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,619
+31.12.2017,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6903
+31.12.2017,98 Amelsbüren,Ausländer,430
+31.12.2017,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,600
+31.12.2017,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,377
+31.12.2017,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,4986
+31.12.2018,11 Aegidii,Ausländer,107
+31.12.2018,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,100
+31.12.2018,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,45
+31.12.2018,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1217
+31.12.2018,12 Überwasser,Ausländer,133
+31.12.2018,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,77
+31.12.2018,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,20
+31.12.2018,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1182
+31.12.2018,13 Dom,Ausländer,219
+31.12.2018,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,132
+31.12.2018,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,22
+31.12.2018,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1878
+31.12.2018,14 Buddenturm,Ausländer,213
+31.12.2018,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,124
+31.12.2018,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,29
+31.12.2018,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,2115
+31.12.2018,15 Martini,Ausländer,140
+31.12.2018,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,72
+31.12.2018,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,15
+31.12.2018,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1161
+31.12.2018,21 Pluggendorf,Ausländer,398
+31.12.2018,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,256
+31.12.2018,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,48
+31.12.2018,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3883
+31.12.2018,22 Josef,Ausländer,587
+31.12.2018,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,435
+31.12.2018,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,111
+31.12.2018,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,7606
+31.12.2018,23 Bahnhof,Ausländer,295
+31.12.2018,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,96
+31.12.2018,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,27
+31.12.2018,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,1006
+31.12.2018,24 Hansaplatz,Ausländer,588
+31.12.2018,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,363
+31.12.2018,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,108
+31.12.2018,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,5956
+31.12.2018,25 Mauritz-West,Ausländer,409
+31.12.2018,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,297
+31.12.2018,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,92
+31.12.2018,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5576
+31.12.2018,26 Schlachthof,Ausländer,496
+31.12.2018,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,423
+31.12.2018,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,184
+31.12.2018,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,4834
+31.12.2018,27 Kreuz,Ausländer,703
+31.12.2018,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,572
+31.12.2018,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,172
+31.12.2018,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,11305
+31.12.2018,28 Neutor,Ausländer,709
+31.12.2018,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,310
+31.12.2018,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,133
+31.12.2018,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3743
+31.12.2018,29 Schloss,Ausländer,229
+31.12.2018,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,135
+31.12.2018,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,29
+31.12.2018,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,1999
+31.12.2018,31 Aaseestadt,Ausländer,615
+31.12.2018,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,492
+31.12.2018,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,198
+31.12.2018,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4513
+31.12.2018,32 Geist,Ausländer,770
+31.12.2018,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,633
+31.12.2018,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,238
+31.12.2018,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7602
+31.12.2018,33 Schützenhof,Ausländer,937
+31.12.2018,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,671
+31.12.2018,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,262
+31.12.2018,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,6249
+31.12.2018,34 Düesberg,Ausländer,596
+31.12.2018,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,472
+31.12.2018,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,138
+31.12.2018,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,6016
+31.12.2018,43 Hafen,Ausländer,121
+31.12.2018,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,58
+31.12.2018,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2018,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,924
+31.12.2018,44 Herz-Jesu,Ausländer,328
+31.12.2018,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,302
+31.12.2018,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,94
+31.12.2018,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4459
+31.12.2018,45 Mauritz-Mitte,Ausländer,675
+31.12.2018,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,588
+31.12.2018,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,231
+31.12.2018,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,8992
+31.12.2018,46 Rumphorst,Ausländer,552
+31.12.2018,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,592
+31.12.2018,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,254
+31.12.2018,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6665
+31.12.2018,47 Uppenberg,Ausländer,999
+31.12.2018,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,765
+31.12.2018,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,317
+31.12.2018,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,7054
+31.12.2018,51 Gievenbeck,Ausländer,2864
+31.12.2018,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2429
+31.12.2018,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1243
+31.12.2018,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,14651
+31.12.2018,52 Sentrup,Ausländer,791
+31.12.2018,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,435
+31.12.2018,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,111
+31.12.2018,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,6321
+31.12.2018,54 Mecklenbeck,Ausländer,758
+31.12.2018,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,942
+31.12.2018,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,303
+31.12.2018,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7538
+31.12.2018,56 Albachten,Ausländer,531
+31.12.2018,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,787
+31.12.2018,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,437
+31.12.2018,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4762
+31.12.2018,57 Roxel,Ausländer,1145
+31.12.2018,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,786
+31.12.2018,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,457
+31.12.2018,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,6939
+31.12.2018,58 Nienberge,Ausländer,732
+31.12.2018,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,478
+31.12.2018,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,219
+31.12.2018,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5506
+31.12.2018,61 Coerde,Ausländer,2829
+31.12.2018,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,2025
+31.12.2018,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,1032
+31.12.2018,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5336
+31.12.2018,62 Kinderhaus-Ost,Ausländer,748
+31.12.2018,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,519
+31.12.2018,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,210
+31.12.2018,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3688
+31.12.2018,63 Kinderhaus-West,Ausländer,1909
+31.12.2018,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1711
+31.12.2018,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,697
+31.12.2018,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6363
+31.12.2018,68 Sprakel,Ausländer,215
+31.12.2018,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,368
+31.12.2018,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,238
+31.12.2018,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2643
+31.12.2018,71 Mauritz-Ost,Ausländer,981
+31.12.2018,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,660
+31.12.2018,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,325
+31.12.2018,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,9088
+31.12.2018,76 Gelmer-Dyckburg,Ausländer,376
+31.12.2018,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,256
+31.12.2018,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,144
+31.12.2018,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,3113
+31.12.2018,77 Handorf,Ausländer,614
+31.12.2018,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,631
+31.12.2018,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,261
+31.12.2018,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6534
+31.12.2018,81 Gremmendorf-West,Ausländer,801
+31.12.2018,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,507
+31.12.2018,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,229
+31.12.2018,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3703
+31.12.2018,82 Gremmendorf-Ost,Ausländer,584
+31.12.2018,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,449
+31.12.2018,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,214
+31.12.2018,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5523
+31.12.2018,86 Angelmodde,Ausländer,1431
+31.12.2018,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,934
+31.12.2018,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,500
+31.12.2018,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5660
+31.12.2018,87 Wolbeck,Ausländer,798
+31.12.2018,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,741
+31.12.2018,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,404
+31.12.2018,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7639
+31.12.2018,91 Berg Fidel,Ausländer,1480
+31.12.2018,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1050
+31.12.2018,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,452
+31.12.2018,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,2939
+31.12.2018,95 Hiltrup-Ost,Ausländer,314
+31.12.2018,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,562
+31.12.2018,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,241
+31.12.2018,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5066
+31.12.2018,96 Hiltrup-Mitte,Ausländer,918
+31.12.2018,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,942
+31.12.2018,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,340
+31.12.2018,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7870
+31.12.2018,97 Hiltrup-West,Ausländer,970
+31.12.2018,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1160
+31.12.2018,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,596
+31.12.2018,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6925
+31.12.2018,98 Amelsbüren,Ausländer,502
+31.12.2018,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,596
+31.12.2018,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,376
+31.12.2018,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,5006
+31.12.2019,11 Aegidii,Ausländer,112
+31.12.2019,11 Aegidii,Deutsche mit persönlicher Migrationsvorgeschichte,98
+31.12.2019,11 Aegidii,Deutsche mit vererbter Migrationsvorgeschichte,45
+31.12.2019,11 Aegidii,Deutsche ohne erkennbare Migrationsvorgeschichte,1245
+31.12.2019,12 Überwasser,Ausländer,128
+31.12.2019,12 Überwasser,Deutsche mit persönlicher Migrationsvorgeschichte,83
+31.12.2019,12 Überwasser,Deutsche mit vererbter Migrationsvorgeschichte,17
+31.12.2019,12 Überwasser,Deutsche ohne erkennbare Migrationsvorgeschichte,1185
+31.12.2019,13 Dom,Ausländer,229
+31.12.2019,13 Dom,Deutsche mit persönlicher Migrationsvorgeschichte,127
+31.12.2019,13 Dom,Deutsche mit vererbter Migrationsvorgeschichte,21
+31.12.2019,13 Dom,Deutsche ohne erkennbare Migrationsvorgeschichte,1913
+31.12.2019,14 Buddenturm,Ausländer,220
+31.12.2019,14 Buddenturm,Deutsche mit persönlicher Migrationsvorgeschichte,136
+31.12.2019,14 Buddenturm,Deutsche mit vererbter Migrationsvorgeschichte,33
+31.12.2019,14 Buddenturm,Deutsche ohne erkennbare Migrationsvorgeschichte,2116
+31.12.2019,15 Martini,Ausländer,118
+31.12.2019,15 Martini,Deutsche mit persönlicher Migrationsvorgeschichte,67
+31.12.2019,15 Martini,Deutsche mit vererbter Migrationsvorgeschichte,17
+31.12.2019,15 Martini,Deutsche ohne erkennbare Migrationsvorgeschichte,1069
+31.12.2019,21 Pluggendorf,Ausländer,377
+31.12.2019,21 Pluggendorf,Deutsche mit persönlicher Migrationsvorgeschichte,243
+31.12.2019,21 Pluggendorf,Deutsche mit vererbter Migrationsvorgeschichte,44
+31.12.2019,21 Pluggendorf,Deutsche ohne erkennbare Migrationsvorgeschichte,3896
+31.12.2019,22 Josef,Ausländer,645
+31.12.2019,22 Josef,Deutsche mit persönlicher Migrationsvorgeschichte,431
+31.12.2019,22 Josef,Deutsche mit vererbter Migrationsvorgeschichte,119
+31.12.2019,22 Josef,Deutsche ohne erkennbare Migrationsvorgeschichte,7600
+31.12.2019,23 Bahnhof,Ausländer,318
+31.12.2019,23 Bahnhof,Deutsche mit persönlicher Migrationsvorgeschichte,90
+31.12.2019,23 Bahnhof,Deutsche mit vererbter Migrationsvorgeschichte,20
+31.12.2019,23 Bahnhof,Deutsche ohne erkennbare Migrationsvorgeschichte,1071
+31.12.2019,24 Hansaplatz,Ausländer,620
+31.12.2019,24 Hansaplatz,Deutsche mit persönlicher Migrationsvorgeschichte,344
+31.12.2019,24 Hansaplatz,Deutsche mit vererbter Migrationsvorgeschichte,104
+31.12.2019,24 Hansaplatz,Deutsche ohne erkennbare Migrationsvorgeschichte,6053
+31.12.2019,25 Mauritz-West,Ausländer,396
+31.12.2019,25 Mauritz-West,Deutsche mit persönlicher Migrationsvorgeschichte,301
+31.12.2019,25 Mauritz-West,Deutsche mit vererbter Migrationsvorgeschichte,93
+31.12.2019,25 Mauritz-West,Deutsche ohne erkennbare Migrationsvorgeschichte,5714
+31.12.2019,26 Schlachthof,Ausländer,505
+31.12.2019,26 Schlachthof,Deutsche mit persönlicher Migrationsvorgeschichte,430
+31.12.2019,26 Schlachthof,Deutsche mit vererbter Migrationsvorgeschichte,185
+31.12.2019,26 Schlachthof,Deutsche ohne erkennbare Migrationsvorgeschichte,4859
+31.12.2019,27 Kreuz,Ausländer,698
+31.12.2019,27 Kreuz,Deutsche mit persönlicher Migrationsvorgeschichte,569
+31.12.2019,27 Kreuz,Deutsche mit vererbter Migrationsvorgeschichte,176
+31.12.2019,27 Kreuz,Deutsche ohne erkennbare Migrationsvorgeschichte,11301
+31.12.2019,28 Neutor,Ausländer,793
+31.12.2019,28 Neutor,Deutsche mit persönlicher Migrationsvorgeschichte,320
+31.12.2019,28 Neutor,Deutsche mit vererbter Migrationsvorgeschichte,134
+31.12.2019,28 Neutor,Deutsche ohne erkennbare Migrationsvorgeschichte,3881
+31.12.2019,29 Schloss,Ausländer,218
+31.12.2019,29 Schloss,Deutsche mit persönlicher Migrationsvorgeschichte,132
+31.12.2019,29 Schloss,Deutsche mit vererbter Migrationsvorgeschichte,24
+31.12.2019,29 Schloss,Deutsche ohne erkennbare Migrationsvorgeschichte,2047
+31.12.2019,31 Aaseestadt,Ausländer,628
+31.12.2019,31 Aaseestadt,Deutsche mit persönlicher Migrationsvorgeschichte,498
+31.12.2019,31 Aaseestadt,Deutsche mit vererbter Migrationsvorgeschichte,198
+31.12.2019,31 Aaseestadt,Deutsche ohne erkennbare Migrationsvorgeschichte,4457
+31.12.2019,32 Geist,Ausländer,799
+31.12.2019,32 Geist,Deutsche mit persönlicher Migrationsvorgeschichte,631
+31.12.2019,32 Geist,Deutsche mit vererbter Migrationsvorgeschichte,248
+31.12.2019,32 Geist,Deutsche ohne erkennbare Migrationsvorgeschichte,7669
+31.12.2019,33 Schützenhof,Ausländer,943
+31.12.2019,33 Schützenhof,Deutsche mit persönlicher Migrationsvorgeschichte,626
+31.12.2019,33 Schützenhof,Deutsche mit vererbter Migrationsvorgeschichte,253
+31.12.2019,33 Schützenhof,Deutsche ohne erkennbare Migrationsvorgeschichte,6332
+31.12.2019,34 Düesberg,Ausländer,629
+31.12.2019,34 Düesberg,Deutsche mit persönlicher Migrationsvorgeschichte,469
+31.12.2019,34 Düesberg,Deutsche mit vererbter Migrationsvorgeschichte,137
+31.12.2019,34 Düesberg,Deutsche ohne erkennbare Migrationsvorgeschichte,5994
+31.12.2019,43 Hafen,Ausländer,114
+31.12.2019,43 Hafen,Deutsche mit persönlicher Migrationsvorgeschichte,54
+31.12.2019,43 Hafen,Deutsche mit vererbter Migrationsvorgeschichte,23
+31.12.2019,43 Hafen,Deutsche ohne erkennbare Migrationsvorgeschichte,940
+31.12.2019,44 Herz-Jesu,Ausländer,352
+31.12.2019,44 Herz-Jesu,Deutsche mit persönlicher Migrationsvorgeschichte,296
+31.12.2019,44 Herz-Jesu,Deutsche mit vererbter Migrationsvorgeschichte,94
+31.12.2019,44 Herz-Jesu,Deutsche ohne erkennbare Migrationsvorgeschichte,4517
+31.12.2019,45 Mauritz-Mitte,Ausländer,653
+31.12.2019,45 Mauritz-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,572
+31.12.2019,45 Mauritz-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,239
+31.12.2019,45 Mauritz-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,9007
+31.12.2019,46 Rumphorst,Ausländer,612
+31.12.2019,46 Rumphorst,Deutsche mit persönlicher Migrationsvorgeschichte,595
+31.12.2019,46 Rumphorst,Deutsche mit vererbter Migrationsvorgeschichte,257
+31.12.2019,46 Rumphorst,Deutsche ohne erkennbare Migrationsvorgeschichte,6757
+31.12.2019,47 Uppenberg,Ausländer,986
+31.12.2019,47 Uppenberg,Deutsche mit persönlicher Migrationsvorgeschichte,758
+31.12.2019,47 Uppenberg,Deutsche mit vererbter Migrationsvorgeschichte,338
+31.12.2019,47 Uppenberg,Deutsche ohne erkennbare Migrationsvorgeschichte,7080
+31.12.2019,51 Gievenbeck,Ausländer,2822
+31.12.2019,51 Gievenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,2391
+31.12.2019,51 Gievenbeck,Deutsche mit vererbter Migrationsvorgeschichte,1194
+31.12.2019,51 Gievenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,14756
+31.12.2019,52 Sentrup,Ausländer,855
+31.12.2019,52 Sentrup,Deutsche mit persönlicher Migrationsvorgeschichte,420
+31.12.2019,52 Sentrup,Deutsche mit vererbter Migrationsvorgeschichte,110
+31.12.2019,52 Sentrup,Deutsche ohne erkennbare Migrationsvorgeschichte,6290
+31.12.2019,54 Mecklenbeck,Ausländer,851
+31.12.2019,54 Mecklenbeck,Deutsche mit persönlicher Migrationsvorgeschichte,949
+31.12.2019,54 Mecklenbeck,Deutsche mit vererbter Migrationsvorgeschichte,335
+31.12.2019,54 Mecklenbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7574
+31.12.2019,56 Albachten,Ausländer,515
+31.12.2019,56 Albachten,Deutsche mit persönlicher Migrationsvorgeschichte,787
+31.12.2019,56 Albachten,Deutsche mit vererbter Migrationsvorgeschichte,432
+31.12.2019,56 Albachten,Deutsche ohne erkennbare Migrationsvorgeschichte,4742
+31.12.2019,57 Roxel,Ausländer,1218
+31.12.2019,57 Roxel,Deutsche mit persönlicher Migrationsvorgeschichte,782
+31.12.2019,57 Roxel,Deutsche mit vererbter Migrationsvorgeschichte,454
+31.12.2019,57 Roxel,Deutsche ohne erkennbare Migrationsvorgeschichte,6941
+31.12.2019,58 Nienberge,Ausländer,750
+31.12.2019,58 Nienberge,Deutsche mit persönlicher Migrationsvorgeschichte,485
+31.12.2019,58 Nienberge,Deutsche mit vererbter Migrationsvorgeschichte,230
+31.12.2019,58 Nienberge,Deutsche ohne erkennbare Migrationsvorgeschichte,5499
+31.12.2019,61 Coerde,Ausländer,3002
+31.12.2019,61 Coerde,Deutsche mit persönlicher Migrationsvorgeschichte,1971
+31.12.2019,61 Coerde,Deutsche mit vererbter Migrationsvorgeschichte,1008
+31.12.2019,61 Coerde,Deutsche ohne erkennbare Migrationsvorgeschichte,5275
+31.12.2019,62 Kinderhaus-Ost,Ausländer,699
+31.12.2019,62 Kinderhaus-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,522
+31.12.2019,62 Kinderhaus-Ost,Deutsche mit vererbter Migrationsvorgeschichte,203
+31.12.2019,62 Kinderhaus-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,3867
+31.12.2019,63 Kinderhaus-West,Ausländer,2041
+31.12.2019,63 Kinderhaus-West,Deutsche mit persönlicher Migrationsvorgeschichte,1713
+31.12.2019,63 Kinderhaus-West,Deutsche mit vererbter Migrationsvorgeschichte,698
+31.12.2019,63 Kinderhaus-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6294
+31.12.2019,68 Sprakel,Ausländer,246
+31.12.2019,68 Sprakel,Deutsche mit persönlicher Migrationsvorgeschichte,378
+31.12.2019,68 Sprakel,Deutsche mit vererbter Migrationsvorgeschichte,260
+31.12.2019,68 Sprakel,Deutsche ohne erkennbare Migrationsvorgeschichte,2673
+31.12.2019,71 Mauritz-Ost,Ausländer,972
+31.12.2019,71 Mauritz-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,666
+31.12.2019,71 Mauritz-Ost,Deutsche mit vererbter Migrationsvorgeschichte,349
+31.12.2019,71 Mauritz-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,9100
+31.12.2019,76 Gelmer-Dyckburg,Ausländer,390
+31.12.2019,76 Gelmer-Dyckburg,Deutsche mit persönlicher Migrationsvorgeschichte,252
+31.12.2019,76 Gelmer-Dyckburg,Deutsche mit vererbter Migrationsvorgeschichte,143
+31.12.2019,76 Gelmer-Dyckburg,Deutsche ohne erkennbare Migrationsvorgeschichte,3119
+31.12.2019,77 Handorf,Ausländer,626
+31.12.2019,77 Handorf,Deutsche mit persönlicher Migrationsvorgeschichte,640
+31.12.2019,77 Handorf,Deutsche mit vererbter Migrationsvorgeschichte,275
+31.12.2019,77 Handorf,Deutsche ohne erkennbare Migrationsvorgeschichte,6494
+31.12.2019,81 Gremmendorf-West,Ausländer,836
+31.12.2019,81 Gremmendorf-West,Deutsche mit persönlicher Migrationsvorgeschichte,486
+31.12.2019,81 Gremmendorf-West,Deutsche mit vererbter Migrationsvorgeschichte,221
+31.12.2019,81 Gremmendorf-West,Deutsche ohne erkennbare Migrationsvorgeschichte,3633
+31.12.2019,82 Gremmendorf-Ost,Ausländer,462
+31.12.2019,82 Gremmendorf-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,450
+31.12.2019,82 Gremmendorf-Ost,Deutsche mit vererbter Migrationsvorgeschichte,230
+31.12.2019,82 Gremmendorf-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5562
+31.12.2019,86 Angelmodde,Ausländer,1482
+31.12.2019,86 Angelmodde,Deutsche mit persönlicher Migrationsvorgeschichte,923
+31.12.2019,86 Angelmodde,Deutsche mit vererbter Migrationsvorgeschichte,497
+31.12.2019,86 Angelmodde,Deutsche ohne erkennbare Migrationsvorgeschichte,5676
+31.12.2019,87 Wolbeck,Ausländer,834
+31.12.2019,87 Wolbeck,Deutsche mit persönlicher Migrationsvorgeschichte,740
+31.12.2019,87 Wolbeck,Deutsche mit vererbter Migrationsvorgeschichte,419
+31.12.2019,87 Wolbeck,Deutsche ohne erkennbare Migrationsvorgeschichte,7728
+31.12.2019,91 Berg Fidel,Ausländer,1422
+31.12.2019,91 Berg Fidel,Deutsche mit persönlicher Migrationsvorgeschichte,1016
+31.12.2019,91 Berg Fidel,Deutsche mit vererbter Migrationsvorgeschichte,464
+31.12.2019,91 Berg Fidel,Deutsche ohne erkennbare Migrationsvorgeschichte,2971
+31.12.2019,95 Hiltrup-Ost,Ausländer,316
+31.12.2019,95 Hiltrup-Ost,Deutsche mit persönlicher Migrationsvorgeschichte,557
+31.12.2019,95 Hiltrup-Ost,Deutsche mit vererbter Migrationsvorgeschichte,246
+31.12.2019,95 Hiltrup-Ost,Deutsche ohne erkennbare Migrationsvorgeschichte,5110
+31.12.2019,96 Hiltrup-Mitte,Ausländer,974
+31.12.2019,96 Hiltrup-Mitte,Deutsche mit persönlicher Migrationsvorgeschichte,956
+31.12.2019,96 Hiltrup-Mitte,Deutsche mit vererbter Migrationsvorgeschichte,351
+31.12.2019,96 Hiltrup-Mitte,Deutsche ohne erkennbare Migrationsvorgeschichte,7797
+31.12.2019,97 Hiltrup-West,Ausländer,977
+31.12.2019,97 Hiltrup-West,Deutsche mit persönlicher Migrationsvorgeschichte,1164
+31.12.2019,97 Hiltrup-West,Deutsche mit vererbter Migrationsvorgeschichte,596
+31.12.2019,97 Hiltrup-West,Deutsche ohne erkennbare Migrationsvorgeschichte,6848
+31.12.2019,98 Amelsbüren,Ausländer,500
+31.12.2019,98 Amelsbüren,Deutsche mit persönlicher Migrationsvorgeschichte,600
+31.12.2019,98 Amelsbüren,Deutsche mit vererbter Migrationsvorgeschichte,366
+31.12.2019,98 Amelsbüren,Deutsche ohne erkennbare Migrationsvorgeschichte,5016

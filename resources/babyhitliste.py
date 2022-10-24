@@ -8,11 +8,16 @@ import pandas as pd
 
 #argument parser to collect data from post and put request
 post_put_arg = reqparse.RequestParser()
-post_put_arg.add_argument('Jahr', type=int, help='Jahr des Eintrags ist erforderlich', required=True)
-post_put_arg.add_argument('Rang', type=int, help='Rang des Eintrags ist erforderlich', required=True)
-post_put_arg.add_argument('Geschlecht', type=str, help='Geschlecht des Eintrags ist erforderlich', required=True)
-post_put_arg.add_argument('Name', type=str, help='Name des Eintrags ist erforderlich', required=True)
-post_put_arg.add_argument('Anzahl', type=int, help='Anzahl des Eintrags ist erforderlich', required=True)
+post_put_arg.add_argument('Jahr', type=int, help='Jahr des Eintrags ist erforderlich',
+ required=True)
+post_put_arg.add_argument('Rang', type=int, help='Rang des Eintrags ist erforderlich',
+ required=True)
+post_put_arg.add_argument('Geschlecht', type=str, help='Geschlecht des Eintrags ist erforderlich',
+ required=True)
+post_put_arg.add_argument('Name', type=str, help='Name des Eintrags ist erforderlich',
+ required=True)
+post_put_arg.add_argument('Anzahl', type=int, help='Anzahl des Eintrags ist erforderlich',
+ required=True)
 
 #since not all arguments are required for patch, there is a need for a second argument parser
 patch_arg = reqparse.RequestParser()
@@ -23,20 +28,28 @@ patch_arg.add_argument('Name', type=str, help='Name des Eintrags ist erforderlic
 patch_arg.add_argument('Anzahl', type=int, help='Anzahl des Eintrags ist erforderlich')
 
 class BabyHitliste(Resource):
+    '''
+    In der Klasse Babyhitliste, werden die HTTP-Methoden
+    get, post, put, patch und delete definiert,
+    die für die Interaktion mit MuensterBabyHitliste.csv benötigt werden
+    '''
     def __init__(self):
         #read csv file
         self.data = pd.read_csv('data/MuensterBabyHitliste.csv',sep=',')
     def get(self, jahr, rang, geschlecht):
-        '''Mit get wird die JSON Repräsentation einer spezifizierte Ressource an'''
+        '''Mit get wird die JSON Repräsentation der spezifizierte Ressource aus der csv angefragt'''
         #retreiving specified resource
         result = self.data.loc[(self.data['Jahr'] == jahr)
                 & (self.data['Rang'] == rang)
                 & (self.data['Geschlecht'] == geschlecht)]
-        if result.empty:
-            abort(404, message="Kein Eintrag mit diesen Daten verfügbar...")
-        else:
+        if not result.empty:
             return result.to_json(orient="records"),200
+
+        abort(404, message="Kein Eintrag mit diesen Daten verfügbar...")
+        return None
+
     def post(self, jahr, rang, geschlecht):
+        '''Mit post wird eine neue Ressource in der csv angelegt'''
         #check if there is a ressource with specified data
         result = self.data.loc[(self.data['Jahr'] == jahr)
                 & (self.data['Rang'] == rang)
@@ -50,8 +63,10 @@ class BabyHitliste(Resource):
             return "",201
 
         abort(405, message="Es gibt schon einen Eintrag unter der spezifizierten Ressource")
-    
+        return None
+
     def put(self, jahr, rang, geschlecht):
+        '''Mit put wird eine spezifizierte Ressource in der csv aktualisiert'''
         #check if there is a ressource with specified data
         result = self.data.loc[(self.data['Jahr'] == jahr)
                 & (self.data['Rang'] == rang)
@@ -62,11 +77,14 @@ class BabyHitliste(Resource):
             put_args=post_put_arg.parse_args()
             self.data.loc[(self.data['Jahr'] == jahr)
                 & (self.data['Rang'] == rang)
-                & (self.data['Geschlecht'] == geschlecht)] = [put_args['Jahr'], put_args['Rang'], put_args['Geschlecht'], put_args['Name'], put_args['Anzahl']]
+                & (self.data['Geschlecht'] == geschlecht)] = [put_args['Jahr'],
+                 put_args['Rang'], put_args['Geschlecht'], put_args['Name'], put_args['Anzahl']]
             self.data.to_csv('data/MuensterBabyHitliste.csv', index=False)
-       
+
     def patch(self, jahr, rang, geschlecht):
-        '''Die Methode patch wird zum partiellen modifizieren einer Ressource in der MuensterBabyHitliste.csv verwendet'''
+        '''Die Methode patch wird zum partiellen modifizieren einer Ressource
+            in der MuensterBabyHitliste.csv verwendet
+        '''
         result = self.data.loc[(self.data['Jahr'] == jahr)
                 & (self.data['Rang'] == rang)
                 & (self.data['Geschlecht'] == geschlecht)]
@@ -102,11 +120,13 @@ class BabyHitliste(Resource):
         result = self.data.loc[(self.data['Jahr'] == jahr)
                 & (self.data['Rang'] == rang)
                 & (self.data['Geschlecht'] == geschlecht)]
-        if result.empty:
-            abort(404, message="Kein Eintrag mit diesen Daten verfügbar...")
-        else:
+        if not result.empty:
             self.data = self.data.drop(self.data.loc[(self.data['Jahr'] == jahr)
                                     & (self.data['Rang'] == rang)
                                     & (self.data['Geschlecht'] == geschlecht)].index)
             self.data.to_csv("data/MuensterBabyHitliste.csv", index=False)
             return "",200
+
+        abort(404, message="Kein Eintrag mit diesen Daten verfügbar...")
+        return None
+                 
