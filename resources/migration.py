@@ -3,6 +3,7 @@ In migration.py wird die Klasse Migration für die korrespondierende Ressource a
 und die benötigten Methoden implementiert. Zur Nutzung von Daten die in der Query übergeben werden
 die requestParser von flask_restful verwendet
 '''
+import flask
 from flask_restful import Resource, reqparse, abort
 import pandas as pd
 
@@ -39,7 +40,9 @@ class Migration(Resource):
         & (self.data['RAUM'] == raum)
         & (self.data['MERKMAL'] == merkmal)]
         if not result.empty:
-            return result.to_json(orient="columns"),200
+            response = flask.make_response(result.to_json(orient="records"))
+            response.headers['content-type'] = 'application/json'
+            return response
 
         abort(404, message="Kein Eintrag mit diesen Daten verfügbar...")
         return None

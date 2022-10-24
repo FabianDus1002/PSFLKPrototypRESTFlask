@@ -58,7 +58,7 @@ response = requests.post(BASE + "wohnberechtigteBev/11 Aegidii/31.12.2023",
 print(response.json())
 
 input()
-response = requests.get(BASE + "wohnberechtigteBev/11 Aegidii/31.12.1999", timeout=5)
+response = requests.get(BASE + "wohnberechtigteBev/11 Aegidii/31.12.2023", timeout=5)
 print(response.json())
 
 input()
