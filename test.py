@@ -17,6 +17,7 @@ input()
 response =requests.delete(BASE  + "babyhitliste/2022/1/Junge", timeout=5)
 print(response.json())
 input()
+#with the appended JSON String data can be send via the request
 response = requests.post(BASE  + "babyhitliste/2022/1/Junge",
  {"Jahr":2022, "Rang":1, "Geschlecht":"Junge", "Name":"Fabian","Anzahl":23} , timeout=5)
 
@@ -31,7 +32,7 @@ print(response.json)
 input()
 
 response = requests.patch(BASE + "babyhitliste/2022/1/Junge", {"Anzahl":24}, timeout=5)
-
+#with the variabele auth, authentication data can be send via the request
 response = requests.delete(BASE + "friedhofstandort/Friedhof H1", timeout=5, auth=('test1','testTest'))
 print(response.json())
 input()
